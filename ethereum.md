@@ -1,0 +1,58 @@
+1. Nom de la crypto
+
+Ethereum ou Ether (ETH) 206.50€
+
+2. description courte
+
+Ethereum est une plate-forme globale et open-source pour des applications décentralisées. Sur Ethereum, vous pouvez écrire du code qui contrôle un actif numérique, qui s'exécute exactement comme il a été programmé et qui est accessible partout dans le monde. Actuellement la 2eme plus important cryptomonnaie décentralisé avec une capitalisation de plus de 23 milliards d'euros.
+
+3. historique (création, évolution etc...)
+
+Lancé le 30 juillet 2015 par Vitalik Buterin
+
+La chaîne de blocs Ethereum a été lancée le 30 juillet 2015, mais à l'origine Buterin ne cherchait pas à créer une crypto-monnaie.
+
+Il est prévu en 2018, dans une version ultérieure du logiciel prenant le nom de Serenity, de changer le procédé de minage actuellement de type Proof-of-Work(preuve de travail) en un minage de type Proof-of-Stake (preuve de participation) afin de limiter la consommation d'électricité du réseau Ethereum. De plus, il permettra d’améliorer les flux de transaction sur l'actif tout en offrant aux investisseurs un outil de rendement
+
+4. valorisation (historique, mise en place, etc...)
+
+prévente des premiers Ethers pour financer le développement du projet. La vente permet de rassembler 31 591 bitcoins d'une valeur de plus de 18 millions de dollars à l'époque, pour 60 millions d'Ethers vendus.
+
+Le tout premier bloc appelé « bloc genesis » est créé le 30 juillet 2015. Il distribue les 60 millions d'Ethers de la prévente ainsi que 12 millions d'Ethers aux développeurs
+
+A la sortie : 2 Ethers par bloc miné c'est-à-dire en moyenne toutes les 13 secondes, soit une émission de plus de 5 millions de nouveaux Ethers par an.
+
+5. créateur (nom, métier, etc...)
+
+Vitalik Buterin : né le 31 janvier 1994 à Kolomna (Russie), il émigre au canada avec ses parents à l'age de 6 ans
+
+6. algo => qu'est-ce qui se cache derrière la crypto
+
+Solidity est un langage de programmation, de type orienté objet. Il permet le développement de smart-contract sur la blockchain Ethereum. Mais également sur d’autres blockchains liées, comme Tomochain. Afin de permettre à n’importe quel développeur de travailler rapidement avec ce nouveau langage (et aux néophytes d’apprendre facilement)  il emprunte beaucoup à d’autres langages de programmations, notamment Javascript, C++ ou C#.
+Fonction de hachage "Ethash"
+
+7. spécificités
+
+Ethereum est la première blockchain programmable du monde. Ce qui signifie que les développeurs peuvent l’utiliser pour construire de nouveaux types d'applications.
+
+L’exécution d’un contrat intelligent, qu’il soit un simple transfert d’Ether entre deux comptes ou l'exécution de plusieurs lignes du code d’un contrat, nécessite de rémunérer les mineurs pour la tâche exécutée. Cette rémunération se fait en Ether à l'échelle infinitésimale et que l'on appelle alors gaz. Chaque opération sur la chaîne de blocs Ethereum46 « coûte » du gaz qui correspond à l’effort à fournir pour traiter cette opération. Le prix du gaz évolue en fonction du marché : chaque mineur peut fixer son prix et correspond au nombre d’Ether qu’il souhaite recevoir pour l’effort qu’il fournit.
+
+En juin 2016, le prix moyen du gaz était de 0,0000000225 Ether. Ainsi, une transaction basique de virement entre deux adresses nécessitant 21 000 gaz correspond à un coût moyen de 0,00047 Ether en frais de traitement. Ce système permet notamment :
+
+aux mineurs peu performants ou avares de refuser de traiter rapidement les opérations trop lourdes en exigeant un prix du gaz élevé ;
+d’éviter que certains contrats deviennent hors de prix lorsque le cours de l’Ether s’apprécie ; en effet le nombre de gaz nécessaire à l’exécution est défini par la complexité des opérations tandis que le prix du gaz peut être ajusté selon le cours de l’Ether ;
+d’éviter qu’une boucle infinie dans un code ne tourne éternellement car au moment où la totalité du gaz fourni dans la transaction a été consommée, le mineur arrête de traiter l’opération et annule la transaction (mais le gaz est bien consommé)
+
+8. avantages / forces
+
+protocole utilisant un langage "Turing-Complet" plutôt que d'alourdir la structure du Bitcoin. Ce qui implique qu’il peut exécuter des fonctions récursives et d'autres calculs mathématiques avancés. 
+
+Blockchain programmable
+
+10. inconvénients / faiblesses
+
+Problème lors de développement de smart-contracts. Ils sont immuables, une fois déployés, personne ne peut modifiser le fonctionnement. Il est donc impossible de corriger des bugs ou erreurs d'un contrat existant.
+
+Nombre d'Ethereum infini. Impossible de connaitre le nombre de tokens en circulation. Ethereum reste assez flou sur ces chiffres. D'où le fait du passage en proof-of-stake. On peut se demander si l'Ether est un token rare ou du moins qui se rarifie?
+
+La quantité et la taille des données qui doivent être gérées par le réseau Ethereum varient, c’est-à-dire que le réseau peut être saturé par ces données, et est donc vulnérable
