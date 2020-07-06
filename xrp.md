@@ -1,10 +1,10 @@
 # 1. Nom de la cryptomonnaie
 
-Appélée communément XRP, cette cryptomonnaie se retrouve également sous le nom de Protocole Ripple ou Ripple Transaction Protocol (RTXP)
+Appelée communément XRP, cette cryptomonnaie se retrouve également sous le nom de Protocole Ripple ou Ripple Transaction Protocol (RTXP)
 
 # 2. Description
 
-Il faut faire attention car Ripple faire référence à plusieurs éléments.
+Il faut faire attention, car Ripple faire référence à plusieurs éléments.
 
 - Une cryptomonnaie
 - Le nom d'une société
@@ -15,7 +15,7 @@ Il faut faire attention car Ripple faire référence à plusieurs éléments.
 
 Cette cryptomonnaie à vue le jour en 2012. Elle a été crée par les deux co-fondateurs de la société Ripple (anciennement Ripple Labs), Chris Larsen et Jed McCaleb.
 
-L'objectif de Ripple était de servir d'intermédiaire lors des transactions internationales et en prenant des comissions qui se veulent plus faibles que chez ses concurents.
+L'objectif de Ripple était de servir d'intermédiaire lors des transactions internationales et en prenant des commissions qui se veulent plus faibles que chez ses concurrents.
 
 # 4. Valorisation
 
@@ -27,7 +27,7 @@ L'année 2018 étant marqué par un krach du marché, le XRP perd de sa valeur. 
 
 # 5. Créateur
 
-Le Ripple a été fondé par Jed McCaleb et Chris Larsen, qui se sont basé sur le travail de Ryan Fugger. En effet le principe du XRP est basé sur un protocole développé par Ryan Fugger dès 2004.
+Le Ripple a été fondé par Jed McCaleb et Chris Larsen, qui se sont basés sur le travail de Ryan Fugger. En effet le principe du XRP est basé sur un protocole développé par Ryan Fugger dès 2004.
 
 McCaleb décide de réunir une équipe d'experts, composée de Arthur Britto, David Schwarz, Chris Larsen et Jesse Powel.
 
@@ -45,25 +45,27 @@ On peut diviser l'algorithme de consensus de Ripple en plusieurs parties :
 	
 # 7. Spécifités
 	
- - En 2017, Ripple a connu une augmentation de son prix de l'ordre de 36 000%, devenant la cryptomonnaie la plus performante de l'année.
+ - En 2017, Ripple a connu une augmentation de son prix de l'ordre de 36 000 %, devenant la cryptomonnaie la plus performante de l'année.
  - Ripple utilise un pont bitcoin, qui permet de payer un utilisateur bitcoin, directement d'un compte Ripple sans avoir à posséder de cette cryptomonaie.
  - Développé en C++
- - Fonction de hachage en SHA256
+ - Fonction de hashage en SHA256
  - 100 000 000 000 de XRP maximale
  
  # 8. Avantages / Points forts
  
  - Seulement 3.5 secondes pour déplacer de l'argent sur le réseau Ripple
- - 3e plus grand capitalisation boursière de cryptomonnaie
- - Se veut plus faible consommateur d'énergie car les XRP sont déjà crées et préminés
+ - 3e plus grande capitalisation boursière de cryptomonnaie
+ - Se veut plus faible consommateur d'énergie, car les XRP sont déjà créés et préminés
  - Confidentialité dans la transaction des identités
  - Forme une monnaie de pont avec de nombreuses devises internationales, facilitant l'échange entre ces dernières.
  - Mécanisme de consensus différent de la concurrence
  
  # 9. Inconvénients / Faiblesses
  
+ - Certains mécanismes de Ripple n'ont pas tous été largement testés et représentent des risques de sécurité
+ - Les XRP sont préminés et une grande partie appartient à la société Ripple, qui controle donc en partie le prix de son produit.
  - Les jetons XRP peuvent être gelés arbitrairement par la société Ripple
- - Les XRP ne sont pas entièrement décentralisé, car une section de son réseau, RippleNet, en contrôle une partie
+ - Les XRP ne sont pas entièrement décentralisés, car une section de son réseau, RippleNet, en contrôle une partie
  - Risques à l'investissement comme toute cryptomonaie
  
 	
