@@ -4,7 +4,7 @@ Appelée communément XRP, cette cryptomonnaie se retrouve également sous le no
 
 # 2. Description
 
-Il faut faire attention, car Ripple faire référence à plusieurs éléments.
+Quand on parle de Ripple il faut distinguer plusieurs éléments :
 
 - Une cryptomonnaie
 - Le nom d'une société
@@ -13,7 +13,7 @@ Il faut faire attention, car Ripple faire référence à plusieurs éléments.
 	
 # 3. Historique
 
-Cette cryptomonnaie à vue le jour en 2012. Elle a été crée par les deux co-fondateurs de la société Ripple (anciennement Ripple Labs), Chris Larsen et Jed McCaleb.
+Cette cryptomonnaie a vue le jour en 2012. Elle a été crée par les deux co-fondateurs de la société Ripple (anciennement Ripple Labs), Chris Larsen et Jed McCaleb.
 
 L'objectif de Ripple était de servir d'intermédiaire lors des transactions internationales et en prenant des commissions qui se veulent plus faibles que chez ses concurrents.
 
@@ -24,6 +24,8 @@ Lorsque Ripple est entré sur le marché en 2012, le prix d'un XPR était établ
 C'est seulement entre décembre 2017 et janvier 2018 qu'il explose en suivant la bulle sur les cryptomonnaies. Son prix passe ainsi de 0.20$ à 3.65$ en 1 mois.
 
 L'année 2018 étant marqué par un krach du marché, le XRP perd de sa valeur. Il est aujourd'hui estimé à 0.18$ et peine à remonter.
+
+XPR est aujourd'hui la troisième valorisation boursière sur le marche des cryptomonnaies
 
 # 5. Créateur
 
@@ -46,7 +48,7 @@ On peut diviser l'algorithme de consensus de Ripple en plusieurs parties :
 # 7. Spécifités
 	
  - En 2017, Ripple a connu une augmentation de son prix de l'ordre de 36 000 %, devenant la cryptomonnaie la plus performante de l'année.
- - Ripple utilise un pont bitcoin, qui permet de payer un utilisateur bitcoin, directement d'un compte Ripple sans avoir à posséder de cette cryptomonaie.
+ - Ripple utilise un pont bitcoin, qui permet de payer un utilisateur bitcoin, directement d'un compte Ripple sans avoir à posséder de cette cryptomonnaie.
  - Développé en C++
  - Fonction de hashage en SHA256
  - 100 000 000 000 de XRP maximale
@@ -66,6 +68,4 @@ On peut diviser l'algorithme de consensus de Ripple en plusieurs parties :
  - Les XRP sont préminés et une grande partie appartient à la société Ripple, qui controle donc en partie le prix de son produit.
  - Les jetons XRP peuvent être gelés arbitrairement par la société Ripple
  - Les XRP ne sont pas entièrement décentralisés, car une section de son réseau, RippleNet, en contrôle une partie
- - Risques à l'investissement comme toute cryptomonaie
- 
-	
+ - Risques à l'investissement comme toute cryptomonnaie
