@@ -42,3 +42,23 @@ Bitcoin est la première crypto-monnaie créée, en 2009 par un individu ou un g
 | Octobre 2018 | 6 300 $ |
 | Décembre 2018 | 3 300 $ |
 | Juillet 2020 | 9 185 $ |
+
+### 3. Créateur
+
+Satoshi Nakamoto est le pseudonyme utilisé par la ou les personnes derrières le Bitcoin. En effet, à ce jour, on ne connait pas l'identité de créateur du Bitcoin.
+
+### 4. Algorithme
+
+Bitcoin fonctionne autour du système de preuve de travail (Proof-of-work). Ce dernier permet d'approuver une transaction en réalisant une tâche avec une complexité importante, demandant une grande puissance de calcul. La complexité de travail est ajustée de sorte à ce qu'un bloc soit trouvé toutes les 10 minutes. Pour qu'un bloc soit valide, son hash doit être inférieur à la complexité de travail.
+
+Cet algorithme pose cependant de gros problèmes environnementaux car elle requiert une grande consommation éléctrique en raison de la puissance de calcul demandée.
+
+### 5. Spécificités
+
+<ul>
+<li>Décentralisation : Le Bitcoin n'est pas régit par une structure ou un organisme quelconque. Le réseau Bitcoin est partagé entre tous ses utilisateurs, ce qui fait qu'il est auto-géré.</li>
+<li>Divisibilité : 1 BTC peut être divisé en Satoshi, qui correspond à 0.000 000 01 BTC</li>
+<li>Transparence : Chaque transaction est enregistrée dans un registre appelé Blockchain. Il est donc possible de retracer tous les mouvements qui ont eu lieu sur le réseau.</li>
+<li>Faibles coûts : Une transaction en Bitcoin est quasiment gratuite, là ou en virement international peut coûter jusqu'à dix euros.</li>
+<li>Rapidité : Il est possible d'envoyer des Bitcoins n'importe où dans le monde en seulement quelques minutes.</li>
+<li>Irréversible : En raison de sa conception, il est impossible de falsifier une transaction sur le réseau Bitcoin. </li>
