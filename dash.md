@@ -13,6 +13,7 @@ Le Dash est basé sur le Bitcoin, mais avec pour objectif de la rendre plus simp
 
 ## Valorisation
 Capitalisation environ 1 milliard en février 2020
+Prix : 69,83 $
 
 ## Créateur
 Evan DUFFIELD, Développeur logiciel, il a commencé a travailler en 2010 dans le domaine de la finance où il a trouvé l'existence du Bitcoin. C'est à partir de là qu'il s'est intéressé aux cryptomonnaie. C'est en étudiant la façon dont marchait le Bitcoin qu'il a eu l'idée de créer Dash afin d'améliorer la cryptomonnaie. 

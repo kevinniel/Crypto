@@ -1,7 +1,7 @@
 # Compound
 
 ## Nom : 
-Compound à comme nom de jeton COMP
+Compound à pour nom de jeton COMP
 
 ## Résumé
 Compound est un protocole algorithmique et autonome de taux d'intérêt conçu pour les développeurs afin de déverrouiller un univers d'applications financières ouvertes.
@@ -10,15 +10,17 @@ Le fonctionnement est : vous prêtez par exemple des Dai sur Compound, vous rece
 
 ## Historique
 2018 : Création Compound à San Francisco
+2019 : Une V2 du protocole à été mis en place
 
 ## Valorisation
 Plus de 160 millions de dollars américains qui sont déposés sur leur protocole.
+Prix : 194,32 $
 
 ## Créateur
-DeFi, la Finance Décentralisée,
+Compound Labs, a levé 8,2 millions de dollars lors du cycle de démarrage en 2018.
 
 ## Algo : 
-Basé sur l'Ethereum, ils utilisent des tokens ERC20.
+Basés sur l'Ethereum, ils utilisent des tokens ERC20.
 Un cToken existe pour chaque token pouvant être prêté sur Compound.
 
 ## Spécificités : 
