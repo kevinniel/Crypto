@@ -12,7 +12,7 @@ Le USC est un stablecoin adossé au dollar américain développé initialement s
 <h2>Historique</h2>
 
 <p>
-Mai 2018 : Création
+Mai 2018 : Création<br>
 Juin 2020 : Augmentation de 35% de la valeur de la monnaie.
 
 </p>
@@ -41,7 +41,7 @@ N'utilise pas d'algorithme.
 <h2>Spécificitées</h2>
 
 <p>
-On ne peut pas miner cette monnaie.
+On ne peut pas miner cette monnaie.<br>
 Permet d'etre utilisé par les crypto-traders pour lutter contre la fluctuation des prix du marché.
 </p>
 
