@@ -56,9 +56,23 @@ Cet algorithme pose cependant de gros problèmes environnementaux car elle requi
 ### 5. Spécificités
 
 <ul>
-<li>Décentralisation : Le Bitcoin n'est pas régit par une structure ou un organisme quelconque. Le réseau Bitcoin est partagé entre tous ses utilisateurs, ce qui fait qu'il est auto-géré.</li>
 <li>Divisibilité : 1 BTC peut être divisé en Satoshi, qui correspond à 0.000 000 01 BTC</li>
 <li>Transparence : Chaque transaction est enregistrée dans un registre appelé Blockchain. Il est donc possible de retracer tous les mouvements qui ont eu lieu sur le réseau.</li>
+<li>Rapidité : Il est possible d'envoyer des Bitcoins n'importe où dans le monde en seulement quelques minutes.</li>
+</ul>
+
+### 6. Avantages / Forces
+
+<ul>
+<li>Décentralisation : Le Bitcoin n'est pas régit par une structure ou un organisme quelconque. Le réseau Bitcoin est partagé entre tous ses utilisateurs, ce qui fait qu'il est auto-géré.</li>
 <li>Faibles coûts : Une transaction en Bitcoin est quasiment gratuite, là ou en virement international peut coûter jusqu'à dix euros.</li>
 <li>Rapidité : Il est possible d'envoyer des Bitcoins n'importe où dans le monde en seulement quelques minutes.</li>
-<li>Irréversible : En raison de sa conception, il est impossible de falsifier une transaction sur le réseau Bitcoin. </li>
+</ul>
+
+### 7. Inconvénients / Faiblesses
+
+<ul>
+<li>Méconnaissance du Bitcoin : Malgré l'engouement autour de cette dernière, beaucoup de personnes ignorent le Bitcoin ou sa façon de fonctionner</li>
+<li>Volatilité : la valeur du Bitcoin peut très rapidement fluctuer, ce qui rend la monnaie très instable</li>
+<li>Immuabilité : dès lors qu'un paiement est fait, il est impossible de faire marche arrière, la transaction ne peut être annulée.</li>
+</ul>
