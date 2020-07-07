@@ -6,6 +6,8 @@
 
 Tezos est une cryptomonnaie qui au lieu de mettre chaque mineur en compétition afin de trouver un hash valable, un mineur est présélectionné pour miner un certain bloc dans le futur. Afin de s’assurer qu’il ne triche pas ou ne soit pas malhonnête, il devra mettre en séquestre un certain nombre de ses tokens avant même d’ajouter ses blocs à la blockchain. Si il essaye de tromper le réseau, il perdra ses fonds en séquestre. Cela veut dire que l’énergie nécessaire au fonctionnement du réseau est minimale car il n’y a pas de dépense d’énergie en excès.
 
+<p style="color: red">tu parles des mineurs, mais qu'en est-il de la monnaie en tant que telle ?</p>
+
 ## Historique
 
 - En août 2014, les fondateurs du projet ont publié un document intitulé «Position Paper» et, en septembre de la même année, le livre blanc Tezos a été publié.
@@ -18,12 +20,17 @@ Tezos est une cryptomonnaie qui au lieu de mettre chaque mineur en compétition a
 
 Actuellement classée à la 10ième place en termes de capitalisation boursière, Tezos (XTZ) a une capitalisation boursière de 1,6 milliards de dollars avec un volume sur 24 heures de 220,37 millions de dollars.
 
+<p style="color: red">ajouter des valeurs par date importante</p>
+
 ## Créateur
 
+<p style="color: red">A FAIRE</p>
 
 ## Algorithme  
 
 Tezos utilise un algorithme de consensus par preuve d’enjeu
+
+<p style="color: red">expliquer !</p>
 
 
 ## Spécificités
@@ -46,3 +53,6 @@ Plus une personne possédera de jetons d’une cryptomonnaie, plus on considérera q
    -  Tezos est encore petit par rapport à Ethereum qui possède le plus grand effet de réseau : lancé officiellement en 2018, Tezos possède un certain retard dans l’écosystème de développement autour de lui ;
     - Le système de gouvernance n’empêche pas les embranchements contentieux : le 9 septembre 2019, le protocole Dune Network s’est séparé de la chaîne principale à la suite de désaccords financiers entre entre la Fondation Tezos et OCamlPro ;
     - Le modèle de gouvernance interne pourrait être une boîte de Pandore : si la gestion du protocole est confiée à un groupe (même très important) de personnes, alors ce groupe pourrait être tenté de censurer certaines transactions par l’intermédiaire du protocole et créer ainsi un dangereux précédent.
+
+
+<p style="color: red">expliquer "Dune Network"</p>

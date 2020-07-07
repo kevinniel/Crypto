@@ -10,12 +10,17 @@ Quand on parle de Ripple il faut distinguer plusieurs éléments :
 - Le nom d'une société
 - Un réseau de remise (réseau d'envoi de fonds)
 - Un système de Règlement Brut en Temps Réel (RBTR)
+
+<p style="color: red">Très bien ! maintenant il faut détaillé les 4 !</p>
 	
 # 3. Historique
 
 Cette cryptomonnaie a vue le jour en 2012. Elle a été crée par les deux co-fondateurs de la société Ripple (anciennement Ripple Labs), Chris Larsen et Jed McCaleb.
 
 L'objectif de Ripple était de servir d'intermédiaire lors des transactions internationales et en prenant des commissions qui se veulent plus faibles que chez ses concurrents.
+
+<p style="color: red">+ d'infos</p>
+
 
 # 4. Valorisation
 
@@ -27,6 +32,8 @@ L'année 2018 étant marqué par un krach du marché, le XRP perd de sa valeur. 
 
 XPR est aujourd'hui la troisième valorisation boursière sur le marche des cryptomonnaies
 
+<p style="color: red">Ajouter + de valeurs par date importante</p>
+
 # 5. Créateur
 
 Le Ripple a été fondé par Jed McCaleb et Chris Larsen, qui se sont basés sur le travail de Ryan Fugger. En effet le principe du XRP est basé sur un protocole développé par Ryan Fugger dès 2004.
@@ -34,6 +41,8 @@ Le Ripple a été fondé par Jed McCaleb et Chris Larsen, qui se sont basés sur
 McCaleb décide de réunir une équipe d'experts, composée de Arthur Britto, David Schwarz, Chris Larsen et Jesse Powel.
 
 C'est en 2012 que McCaleb et Larsen co-fondent, à l'aide de cette équipe, OpenCoin qui deviendra par la suite Ripple Labs, puis simplement Ripple en 2015.
+
+<p style="color: red">+ d'infos sur chacun : parcours ? formation ?</p>
 
 # 6. Algorithme
 
@@ -44,6 +53,8 @@ On peut diviser l'algorithme de consensus de Ripple en plusieurs parties :
 - Le registre, comme sur un réseau bitcoin, il contient l'ensemble des soldes des utilisateurs.
 - Liste de noeuds uniques (UNL) : contenu dans chaque serveur, ces noeuds participent au mécanisme de consensus et approuvent ou non les transactions.
 - Proposant, qui peut diffuser des transactions sur le réseau, qui seront incluses dans le processus de consensus.
+
+<p style="color: red">bien !</p>
 	
 # 7. Spécifités
 	
@@ -69,3 +80,7 @@ On peut diviser l'algorithme de consensus de Ripple en plusieurs parties :
  - Les jetons XRP peuvent être gelés arbitrairement par la société Ripple
  - Les XRP ne sont pas entièrement décentralisés, car une section de son réseau, RippleNet, en contrôle une partie
  - Risques à l'investissement comme toute cryptomonnaie
+
+<p style="color: red">détaillé + les risques de sécurité</p>
+<p style="color: red">détaillé + l'impact d'un gel de la société</p>
+<p style="color: red">quel impact potentiel que tous les XRP ne soient pas entièrement décentralisés ?</p>

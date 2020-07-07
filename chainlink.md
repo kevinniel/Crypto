@@ -10,9 +10,13 @@ Mais le gros problème des smart contracts est qu'ils ne peuvent gérer que les 
 
 Et c'est là qu'intervient ChainLink et son service d'oracle. Avec ChainLink, les utilisateurs des smart contracts peuvent utiliser le réseau d'oracles mise en place par l'entreprise afin de récupérer des informations dites "**off-chain**", c'est-à-dire provenant de l'extérieur du réseau.
 
+<p style="color: red">expliquer les "oracles"</p>
+
 # historique (création, évolution etc...)
 
 Création en **2018**
+
+<p style="color: red">évolution depuis ???</p>
 
 # valorisation (historique, mise en place, etc...)
 
@@ -27,6 +31,8 @@ Plus haut taux historique le 4 mars 2020 à 4,94$ soit une multiplication de son
 
 La communauté est très entousiaste quant à l'évolution du Chainlink.
 
+<p style="color: red">ajouter des infos sur l'évolution du prix par date</p>
+
 # créateur (nom, métier, etc...)
 
 **Sergey Nazarov - CEO** : il a commencé sa carrière chez FirstMark Capital avant de rejoindre le monde des crypto-monnaies en 2011
@@ -40,9 +46,14 @@ La communauté est très entousiaste quant à l'évolution du Chainlink.
 **6 advisors** : Ari Juels, Andrew Miller, Evan Cheng, Hudson Jameson, Jake Brukhman et Brian Lio.
 
 # algo => qu'est-ce qui se cache derrière la crypto
+
+<p style="color: red">A FAIRE</p>
+
 # spécificités
 
 Le but principal de ChainLink est de **connecter** le monde **on-chain** (sur la blockchain) et le monde **off-chain** (les informations qui ne se trouvent pas sur la blockchain). Pour mener à bien son objectif, le projet sera composé de **deux infrastructures** : une on-chain et une autre off-chain.
+
+<p style="color: red">Expliquer davantage la différence on-chain / off-chain : quel intérêt de connecter les deux ? pour quoi faire ? dans quel but ?</p>
 
 # avantages / forces
 
@@ -53,6 +64,9 @@ Pondération des informations fournies par les oracles lorsqu'elles ne sont pas 
 L'équipe de développement convient parfaitement à la mise en place d'un tel projet.
 Le projet est indépendant quant à la blockchain utilisée. A terme, son système d'oracle pourra fonctionner avec d'autres blockchain qu'Ethereum.
 Possibilité d'ajouter des "adapters" afin d'améliorer l'efficacité de certains processus.
+
+<p style="color: red">expliquer les token LINK</p>
+
 
 # inconvénients / faiblesses
 

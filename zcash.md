@@ -9,15 +9,21 @@ ZCash est une crypto-monnaie alimentée par une blockchain décentralisée dont l'o
 	
 	Le 23 Octobre 2016 : Lancement du zcash
 
+<p style="color: red">+ d'infos !</p>
+
 ## Valorisation
 
 Prix du Zcash : 54.35$
 Il est 26eme sur le rang du marché
 Capital : 518 444 060$
 
+<p style="color: red">ajouter des valeurs concernant des dates importantes</p>
+
 ## Créateur
 
 Zooko Wilcox O-Hearn est américain et est un spécialiste de la sécurité informatique basé au Colorado ainsi que le PDG de la Electric Coin Company.
+
+<p style="color: red">détailler un peu plus ? pourquoi il a créer ca ? quelle formation ? + d'infos sur le parcours ?</p>
 
 ## Algorithme  
 
@@ -25,6 +31,9 @@ Les transactions anonymes de Zcash s’appuient sur l’algorithme zk-SNARK, l’acron
 
  - sans avoir accès à l’information elle-même
  - sans que le bénéficiaire de la transaction n’ait besoin d’interagir avec l’émetteur
+
+
+<p style="color: red">détaillé +</p>
 
 
 ## Spécificités

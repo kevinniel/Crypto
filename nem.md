@@ -13,19 +13,28 @@ En 2016, Tech Bureau, une start-up japonaise, réalise un partenariat avec NEM af
 Le 26 janvier 2018, Coincheck, un exchange japonais est victime d'un piratage. En résulte la perte de 523 millions de tokens, soit l'équivalent de 534 millions de dollars. 
 L'équipe de développement refuse de procéder à un hard fork, et propose de créer un système de traçage (en tagant les tokens) pour suivre les fonds volés et donner toutes les informations nécessaires aux autorités.
 
+<p style="color: red">expliquer hard fork</p>
+
 ## Valorisation
 
 Prix du Nem : €0,038425 €
 Il est 31eme sur le rang du marché
 Capital : 345?824?744 €
 
+<p style="color: red">ajouter prix par date importante</p>
+
 ## Créateur
 
 	UtopianFuture
 
+<p style="color: red">aucune info supplémentaire ? mythe ? légende ?</p>
+
+
 ## Algorithme  
 
 Pour valider chacune des transactions effectuées sur Nem, le réseau se base sur un indice « d’importance ». Nem calcule ce score en fonction des transactions passées et des utilisateurs avec qui ces opérations ont été réalisées. Pour un nouveau membre, qui n’a jamais effectué de transaction, le calcul de la Proof of Importance se fera par rapport à votre nombre de jetons.
+
+<p style="color: red">expliquer davantage le "proof of Importance" : quel intérêt ? dans quel but ?</p>
 
 
 ## Spécificités
@@ -37,5 +46,8 @@ La blockchain NEM n’utilise pas le « proof of work » comme méthode de validation
 
  - C'est fait en java
 
+<p style="color: red">c'est pas un avantage, et en plus il va falloir en trouver !</p>
+
 ## Inconvénients
 
+<p style="color: red">A FAIRE !</p>

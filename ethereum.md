@@ -6,6 +6,9 @@
 
 **Ethereum** est une **plate-forme globale** et **open-source** pour des applications décentralisées. Sur **Ethereum**, vous pouvez écrire du code qui contrôle un **actif numérique**, qui s'exécute exactement comme il a été programmé et qui est accessible partout dans le monde.
 
+<p style="color: red">c'est pas une crypto ? c'est juste une plateforme ?</p>
+<p style="color: red">c'est quoi le "contrôle d'un actif numérique" ?</p>
+
 # historique
 
 **Décembre 2013** **Vitalik Buterin** publie une description de son projet.
@@ -30,6 +33,8 @@
 
 **Actuellement** la **2eme** plus important cryptomonnaie décentralisé avec une capitalisation de plus de **23 milliards d'euros**.
 
+<p style="color: red">ajouter des prix par date importante</p>
+
 # créateur
 
 **Vitalik Buterin** : né le 31 janvier 1994 à Kolomna (Russie), il émigre au canada avec ses parents à l'age de 6 ans.
@@ -45,7 +50,11 @@ Il s'inscrit à l'Université de Waterloo, qu'il quitte en 2014 pour travailler 
 Sa fonction de hachage, le "**Ethash**". 
 Il s'agit d'une fonction de hachage appartenant à la famille **Keccak**, la même famille à laquelle appartiennent les fonctions de hachage **SHA-3**. Cependant, **Ethash n'est pas une fonction SHA-3** et ne doit pas être confondu avec eux.
 
+<p style="color: red">tu en dis soit trop, soit pas assez. J'opte pour la deuxième : détail davantage !</p>
+
 **Solidity** est un langage de programmation, de type orienté objet. Il permet le développement de **smart-contract sur la blockchain Ethereum**. Mais également sur d’autres blockchains liées, comme Tomochain. Afin de permettre à n’importe quel développeur de travailler rapidement avec ce nouveau langage (et aux néophytes d’apprendre facilement) il emprunte beaucoup à d’autres langages de programmations, notamment **Javascript, C++ ou C#**.
+
+<p style="color: red">expliquer les smart contracts</p>
 
 # spécificités
 
@@ -63,6 +72,8 @@ Chaque opération sur la chaîne de blocs Ethereum « coûte » du **gaz** qui c
 # avantages / forces
 
 protocole utilisant un langage "**Turing-Complet**" plutôt que d'alourdir la structure du Bitcoin. Ce qui implique qu’il peut exécuter des fonctions récursives et d'autres calculs mathématiques avancés. 
+
+<p style="color: red">expliquer "Turing-Complet"</p>
 
 Blockchain programmable
 

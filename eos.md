@@ -8,6 +8,8 @@ EOS.IO est un protocole de blockhain alimenté par la cryptomonnaie native EOS.
 
 La plateforme prétend pouvoir éliminer les frais de transaction et également conduire plusieurs millions de transactions par seconde.
 
+<p style="color: red">expliquer "native EOS"</p>
+
 # 3. Historique
 
 La plateforme EOS.IO est basée sur un livre blanc (rapport sur un sujet complexe), publié en 2017.
@@ -28,6 +30,8 @@ Un jeton EOS coûte aujourd'hui 2.244€.
 
 EOS est aujourd'hui la septième valorisation boursière sur le marché des cryptomonnaies.
 
+<p style="color: red">ajouter des valeurs par date importante</p>
+
 # 5. Créateur
 
 Cette cryptomonnaie a été fondée par l'entreprise block.one.
@@ -39,6 +43,9 @@ La personne derrière le protocole de blockchain EOS est Daniel Larimer, un Amé
 # 6. Algorithme
 
 EOS utilise le même algorithme que le Bitcoin et l'Ehtereum, à savoir, le secp256k1
+
+<p style="color: red">expliquer l'algo un minimum ? d'ou il vient ? pourquoi lui ? quelle particularité ?</p>
+
 
 # 7. Spécifités
 	

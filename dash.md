@@ -11,9 +11,13 @@ Le Dash est basé sur le Bitcoin, mais avec pour objectif de la rendre plus simp
 2014 : Apparition de la cryptomonnaie Xcoin.
 2015 : Dash est considéré comme étant la première organisation autonome décentralisée (DAO).
 
+<p style="color: red">+ d'infos !</p>
+
 ## Valorisation
 Capitalisation environ 1 milliard en février 2020
 Prix : 69,83 $
+
+<p style="color: red">ajouter une valorisation par date importante</p>
 
 ## Créateur
 Evan DUFFIELD, Développeur logiciel, il a commencé a travailler en 2010 dans le domaine de la finance où il a trouvé l'existence du Bitcoin. C'est à partir de là qu'il s'est intéressé aux cryptomonnaie. C'est en étudiant la façon dont marchait le Bitcoin qu'il a eu l'idée de créer Dash afin d'améliorer la cryptomonnaie. 
@@ -23,6 +27,7 @@ Technologie : C++ et Go
 Basés sur le code de source du Bitcoin, ils l'ont modifié avec les masternodes.
 Masternodes sont des serveurs mis en ligne afin de pouvoir faciliter les transactions. Les Masternodes sont rémunérées à hauteur de 45 % de la valeur des blocs miné.
 C'est grâce à ces serveurs que peuvent fonctionner les services PrivateSend et InstantSend.
+
 
 ## Spécificités : 
 PrivateSend : Permet de faire des transactions qui ne pourront pas être vu par une personne extérieure.

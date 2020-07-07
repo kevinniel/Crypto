@@ -19,15 +19,22 @@ Février 2018 : Swaps atomiques entre les pièces à base de bitcoin et les toke
 Juillet 2018 : Introduction de la synchronisation multi-chaîne et de l’interopérabilité interchaîne<br>
 Juillet 2019 : Lancement de la version bêta publique d’AtomicDEX, le premier DEX basé entièrement sur des swaps Atomic.<p>
 
+<p style="color: red">expliquer les swaps atomiques</p>
+<p style="color: red">expliquer "DEX"</p>
+
 
 <h2>Valorisation</h2>
 
 <p>Le KMD vaut environ 0,55 euros.<br>
 La capitalisation du marché à ce jour est de 67 millions d’euros.</p>
 
+<p style="color: red">Ajouter des valeurs par date importante</p>
+
 <h2>Créateur</h2>
 
 <p>James « jl777c » Lee</p>
+
+<p style="color: red">+ d'infos ! formation ? parcours ?</p>
 
 <h2>Algorithme</h2>
 
@@ -36,6 +43,11 @@ Pour le fonctionnement de la blockchain, Komodo utilise le Delay Proof of Work.<
 Ce dernier permet une sécurité aussi grande que celui utilisé sur Bitcoin mais a une consommation beaucoup moins importante de puissance de calcul et d’énergie.<br>
 La blockchain de Komodo fonctionne grâce à 64 Notary Nodes.<br>
 Ce sont les noeuds du réseau qui servent à vérifier les blocs Komodo sur la blockchain Bitcoin</p>
+
+<p style="color: red">Expliquer zk-SNARKS</p>
+<p style="color: red">expliquer 64 Notary Nodes</p>
+<p style="color: red">expliquer le Delay Proof of Work</p>
+
 
 <h2>Spécificitées</h2>
 
@@ -52,9 +64,13 @@ Plusieurs projets cryptos sont intéressés par Komodo pour sécuriser leur bloc
 Frais de transactions de l'exchange faibles<br>
 Minage des blocs simple et rapide</p>
 
+<p style="color: red">expliquer "ICOs" et "dICOS"</p>
+
 
 <h2>Inconvénients/Faiblesses</h2>
 
 <p>Peu de marketing et marketing peu qualitatif<br>
 Le responsables des développements est anonyme, il utilise le pseudo jl777<br>
 Pour utiliser Komodo il faut paramétrer un protocole ZCash, ce qui pourrait être compromis par les créateurs s'ils le souhaitaient (néanmoins, cela est peu probable)</p>
+
+<p style="color: red">les créateurs de Komodo ou de Zcash ? et pourquoi peu probable ?</p>

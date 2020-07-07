@@ -21,6 +21,8 @@ Avril 2017 : Création de la fondation Litecoin, pour promouvoir le Litecoin<br>
 Juillet 2018 : Ajout du Litecoin dans le conversion de devices de Google.
 </p>
 
+<p style="color: red">expliquer la faille Mtgox</p>
+
 
 <h2>Valorisation</h2>
 
@@ -29,10 +31,15 @@ Actuellement, plus de 64 millions d’unités seraient déjà en circulation.
 
 <p></p>
 
+<p style="color: red">donner + de chiffres par date de valorisation importante</p>
+
 <h2>Créateur</h2>
 
 <p>Charlie Lee (Charlie Chin ou Charlie Lie)<br>
 Ancien employé de Google.</p>
+
+<p style="color: red">quel poste ? quelle formation avant ?</p>
+
 
 <h2>Algorithme</h2>
 

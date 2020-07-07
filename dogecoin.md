@@ -30,13 +30,19 @@ capitalisation de **60 millions de dollars** en **janvier 2014**.
 
 **En janvier 2018**, la capitalisation a atteint **2 milliards de dollars**
 
+<p style="color: red">peut etre y a t il d'autres dates importantes concernant la valorisation ? ou au moins en donner un peu plus ?</p>
+
 # créateur (nom, métier, etc...)
 
 **Billy Markus**, programmeur de Portland
 
+<p style="color: red">parcours ? formation ?</p>
+
 # algo => qu'est-ce qui se cache derrière la crypto
 
 le Luckycoin (la base du Dogecoin) est basé sur le **Litecoin9** qui utilise également la **technologie scrypt** dans son algorithme de preuve de travail. L'utilisation de scrypt signifie que les mineurs ne peuvent pas utiliser l'équipement de minage SHA-256 comme pour le bitcoin.
+
+<p style="color: red">expliquer "scrypt"</p>
 
 
 # spécificités
@@ -46,4 +52,9 @@ Nombre de Dogecoin **illimités**.
 La taille de la blockchain du Dogecoin était de **38,8 gigabit** en octobre 2019.
 
 # avantages / forces
+
+<p style="color: red">A FAIRE</p>
+
 # inconvénients / faiblesses
+
+<p style="color: red">A FAIRE</p>

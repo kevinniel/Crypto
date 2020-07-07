@@ -12,18 +12,26 @@ Il s’appuie sur le même fonctionnement de base, que l'Ethereum : la création
 ## Historique
 2016 : Création de l'Eutereum Classic
 
+<p style="color: red">+ d'infos !</p>
+
 ## Valorisation
 1,5 milliards de dollars de valeur boursière
 Prix : 6,04 $
 
+<p style="color: red">ajouter les prix par date importante</p>
+
 ## Créateur
 Il n'y a pas de créateur car ce sont les utilisateurs qui ont décidé de rester sur la version d'Ethereum qui a été piraté.
+
 
 ## Algo : 
 L'algo est celui de l'Ethereum avant le fork.
 
+<p style="color: red">c'est a dire ?</p>
+
 ## Spécificités : 
 
+<p style="color: red">A FAIRE</p>
 
 ## Avantage :
 L'Ethereum Classic est toujours une blockchain au charactère immuable contrairement à l'Ethereum.

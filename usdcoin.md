@@ -17,11 +17,16 @@ Juin 2020 : Augmentation de 35% de la valeur de la monnaie.
 
 </p>
 
+<p style="color: red">+ d'infos</p>
+
 
 <h2>Valorisation</h2>
 
 Un USD Coin egal un dollar
 En 2018, 222 828 911 de USDC sont émis, cela signifie que l’entreprise à l’origine de la monaie a 222 828 911 dollars en réserve.
+
+<p style="color: red">ajouter + d'infos : pourquoi 222828911 dollar en réserve ? pourquoi pas de spéculation ?</p>
+<p style="color: red">ajouter des valeurs concernant les dates importantes</p>
 
 <p></p>
 
@@ -31,6 +36,8 @@ En 2018, 222 828 911 de USDC sont émis, cela signifie que l’entreprise à l�
 L’entreprise est détenue en partie par Goldman Sachs. <br>
 Son objectif est de transformer l’économie mondiale en proposant une technologie sécurisée, simple et plus économe pour conserver et utiliser son argent.
 </p>
+
+<p style="color: red">+ d'infos</p>
 
 <h2>Algorithme</h2>
 
@@ -58,3 +65,5 @@ Le cours de cette monnaie reste à 1$
 <p>
 
 </p>
+
+<p style="color: red">A FAIRE !</p>
