@@ -14,7 +14,7 @@ La plateforme EOS.IO est basée sur un livre blanc (rapport sur un sujet complex
 
 Elle est développée par l'entreprise block.one.
 
-La plateforme EOS.IO a levée des fonds via une ICO (une levée de fond initiale), avant de sortir en version publique le 1er juin 2018. 
+La plateforme EOS.IO a levée des fonds via une ICO (levée de fond initiale), avant de sortir en version publique le 1er juin 2018. 
 
 Lors de sa publication initiale, un milliard de jetons ont été distribués sur la blockchain Ethereum par block.one, afin de s'assurer une distribution suffisamment large.
 
