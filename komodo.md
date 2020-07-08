@@ -13,11 +13,16 @@ Il s'agit d'une plateforme d’échange permettant de connecter toutes les crypt
 <h2>Historique</h2>
 
 <p>septembre 2016 : Création du Komodo</p>
-Mars 2017 : Sortie de la première version rudimentaire du système d’échange décentralisé (DEX) de Komodo, permettant des échanges peer-to-peer en ligne de commande entre les pièces basées sur le protocole Bitcoin.<br>
-Octobre 2017 : Intégration des swaps atomiques dans le portefeuille Electrum SPV de Bitcoin.<br>
+Mars 2017 : Sortie de la première version rudimentaire du système d’échange décentralisé (DEX*) de Komodo, permettant des échanges peer-to-peer en ligne de commande entre les pièces basées sur le protocole Bitcoin.<br>
+Octobre 2017 : Intégration des swaps atomiques(voir spécificitées) dans le portefeuille Electrum SPV de Bitcoin.<br>
 Février 2018 : Swaps atomiques entre les pièces à base de bitcoin et les tokens ERC20 (entre 95% de toutes les pièces et tokens)<br>
 Juillet 2018 : Introduction de la synchronisation multi-chaîne et de l’interopérabilité interchaîne<br>
 Juillet 2019 : Lancement de la version bêta publique d’AtomicDEX, le premier DEX basé entièrement sur des swaps Atomic.<p>
+
+DEX ou plateformes d’échange décentralisées sont un endroit où les gens peuvent échanger des crypto-monnaies directement sans intermédiaire.<br>
+Sur un DEX, chaque transaction est généralement écrite dans la blockchain. Le DEX remplace la nécessité d'un échange centralisé pour agir en tant qu'intermédiaire.</p>
+
+Atomic Swaps est un procédé rend possible l'échange entre eux des tokens issus de deux blockchains différentes sans tierce partie.</p>
 
 <p style="color: red">expliquer les swaps atomiques</p>
 <p style="color: red">expliquer "DEX"</p>
@@ -25,24 +30,36 @@ Juillet 2019 : Lancement de la version bêta publique d’AtomicDEX, le premier 
 
 <h2>Valorisation</h2>
 
-<p>Le KMD vaut environ 0,55 euros.<br>
-La capitalisation du marché à ce jour est de 67 millions d’euros.</p>
+<p>
+ | Date | Valeur |
+|-|-|
+| Mai 2017 | 0.3 € |
+| Décembre 2017 | 13.01 € |
+| Janvier 2018 | 5.04 € |
+| Août 2018 | 0.9 € |
+| Juillet 2020 | 0.55 € |
+
+La capitalisation du marché en juillet 2020 est de 67 millions d’euros.</p>
 
 <p style="color: red">Ajouter des valeurs par date importante</p>
 
 <h2>Créateur</h2>
 
-<p>James « jl777c » Lee</p>
+<p>Tout comme pour le Bitcoin le créateur de komodo est anonyme. Il utilise le pseudo suivant : James « jl777c » Lee</p>
 
 <p style="color: red">+ d'infos ! formation ? parcours ?</p>
 
 <h2>Algorithme</h2>
 
 <p>Komodo utilise zk-SNARKS pour cryptées et anonymiser les transactions. <br>
+ k-SNARK veut dire "Zero-Knowledge Succinct Non-Interactive Argument of Knowledge",il s’agit d’un système de preuve prouvant la possession d’informations.<br>
+Ces informations peuvent par exemple être de différentes formes, comme un nombre ou comme des clés secrètes par exemple.<br>
+Ce système de preuve est alors ici mis en pratique sans qu’il n’y ait la moindre divulgation publique d’informations ni d’interaction avec l’utilisateur apportant la preuve.<br>
 Pour le fonctionnement de la blockchain, Komodo utilise le Delay Proof of Work.<br>
+Le Delay Proof of Work est une version modifiée de l’algorithme de consensus de Proof of Work (PoW ou Preuve de Travail en français) qui utilise la puissance de hachage de la blockchain Bitcoin afin de renforcer la sécurité du réseau. En utilisant la dPoW, les développeurs de Komodo peuvent sécuriser non seulement leur propre réseau, mais également toute chaîne tierce qui finirait par rejoindre l'écosystème Komodo à l'avenir.<br>
 Ce dernier permet une sécurité aussi grande que celui utilisé sur Bitcoin mais a une consommation beaucoup moins importante de puissance de calcul et d’énergie.<br>
-La blockchain de Komodo fonctionne grâce à 64 Notary Nodes.<br>
-Ce sont les noeuds du réseau qui servent à vérifier les blocs Komodo sur la blockchain Bitcoin</p>
+La blockchain de Komodo fonctionne grâce à 64 Notary Nodes.Il s'agit des nœuds du réseau qui sont élus par les détenteurs de tokens KMD et qui sont utilisés pour authentifier les blocs Komodo sur la blockchain Bitcoin. C'est ce système qui va permettre d'assurer la sécurité de la blockchain du Komodo.</p>
+
 
 <p style="color: red">Expliquer zk-SNARKS</p>
 <p style="color: red">expliquer 64 Notary Nodes</p>
@@ -64,13 +81,18 @@ Plusieurs projets cryptos sont intéressés par Komodo pour sécuriser leur bloc
 Frais de transactions de l'exchange faibles<br>
 Minage des blocs simple et rapide</p>
 
+ICOs : Une ICO (Initial Coin Offering) est une méthode de distribution de tokens.<br>
+Elle est utilisée pour le lancement de projets liés aux crypto-monnaies et à la blockchain.<br>
+Lors d'une ICO, les investisseurs peuvent acheter des tokens, ce qui est similaire au fait d'acheter des parts dans une société classique.</p>
+
+dICOS : Il s'agit d'une ICO décentralisée.<br>
+A l'heure actuelle, les ICOs ne sont pas décentralisées, elles utilisent un seul smart contract et la transaction est traçable.</p>
+
+
 <p style="color: red">expliquer "ICOs" et "dICOS"</p>
 
 
 <h2>Inconvénients/Faiblesses</h2>
 
 <p>Peu de marketing et marketing peu qualitatif<br>
-Le responsables des développements est anonyme, il utilise le pseudo jl777<br>
-Pour utiliser Komodo il faut paramétrer un protocole ZCash, ce qui pourrait être compromis par les créateurs s'ils le souhaitaient (néanmoins, cela est peu probable)</p>
-
-<p style="color: red">les créateurs de Komodo ou de Zcash ? et pourquoi peu probable ?</p>
+Le responsables des développements est anonyme, il utilise le pseudo jl777</p>
