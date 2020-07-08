@@ -18,6 +18,10 @@
 
 Markus a basé le Dogecoin sur une crypto-monnaie existante, le Luckycoin qui présente une **récompense aléatoire** reçue pour l’exploitation d’un bloc, cette particularité a ensuite été remplacée par une **récompense de bloc statique** en **mars 2014**.
 
+<strong>Remarques ThomasM :</strong>
+<p> Détails sur le vol de 2013 ? </p>
+<p> Une raison d'etre passé d'une recompense aléatoire à une statique  ? </p>
+
 # valorisation
 
 capitalisation de **60 millions de dollars** en **janvier 2014**.
@@ -50,6 +54,9 @@ Le **25 mars 2014**, la communauté Dogecoin a réussi à collecter **67,8 milli
 **Jackson Palmer**, co-fondateur du Dogecoin
 
 <p style="color: red">parcours ? formation ? - Pas plus d'infos que ça ...</p>
+
+<strong>Remarques ThomasM :</strong>
+<p> Des choses sur lesquelles il aurait travailler chez IBM ?</p>
 
 # algo => qu'est-ce qui se cache derrière la crypto
 

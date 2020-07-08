@@ -8,6 +8,8 @@ Compound est un protocole algorithmique et autonome de taux d'intérêt conçu p
 Compond est un système de prêt de cryptomonnaies décentralisé.
 Le fonctionnement est : vous prêtez par exemple des Dai sur Compound, vous recevez des cDai. Si vous souhaitez récupérer vos Dai, vous pouvez échanger vos cDai contre des Dai. Vous récupérerez un nombre de Dai en fonction du taux d'intérêt actuel.
 
+<p style="color: red">Antoine : Dai?</p>
+
 ## Historique
 2018 : Création Compound à San Francisco
 2019 : Une V2 du protocole à été mis en place pour accepter plus de cryptomonnaie (Ether, 0x, Augur, Basic Attention Token, Dai, and USDC).

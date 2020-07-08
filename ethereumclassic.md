@@ -30,7 +30,7 @@ Il n'y a pas de créateur car ce sont les utilisateurs qui ont décidé de reste
 
 ## Algo : 
 L'algo de base est celui de l'Ethereum avant le fork, c'est à dire quand la blockchain étais encore immuable.
-Ils ont font des modification afin d'essayer de se rapprocher des objectifs du Bitcoin.
+Ils ont fait des modification afin d'essayer de se rapprocher des objectifs du Bitcoin.
 
 <p style="color: red">c'est a dire ?</p>
 
