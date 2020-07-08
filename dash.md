@@ -23,6 +23,8 @@ DASH a été vendue à moins de 10 dollars jusqu'à la fin de 2016.
 Le prix du Dash a commencé à augmenter durant 2017, pour atteindre les 1500 $ en décembre. L'une des principales raisons pour lesquelles le Dash cryptocurrency est devenu si populaire est qu'il résout deux des problèmes majeurs de Bitcoin : le manque de confidentialité et la lenteur des transactions.
 Sa valeur commence a redescendre vers janvier 2018 pour se stabilisé sur l'année 2019-2020.
 
+<p style="color: red">Antoine : Il se stabilise à combien?</p>
+
 <p style="color: red">ajouter une valorisation par date importante</p>
 
 ## Créateur
