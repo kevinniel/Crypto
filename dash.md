@@ -9,13 +9,19 @@ Le Dash est basé sur le Bitcoin, mais avec pour objectif de la rendre plus simp
 ## Historique
 2012 : Création de Dash
 2014 : Apparition de la cryptomonnaie Xcoin.
-2015 : Dash est considéré comme étant la première organisation autonome décentralisée (DAO).
+2015 : Dash est considéré comme étant la première organisation autonome décentralisée (DAO), il renomme "Darkcoin" en "Dash".
+2017 : Le DAO du Dash a financé un laboratoire de recherche en blockchain à l'ASU.
+2018 : La capitalisation boursière du Dash était d'environ 4,3 milliards de dollars et il faisait partie des 12 premières cryptocurrences
 
 <p style="color: red">+ d'infos !</p>
 
 ## Valorisation
 Capitalisation environ 1 milliard en février 2020
 Prix : 69,83 $
+
+DASH a été vendue à moins de 10 dollars jusqu'à la fin de 2016.
+Le prix du Dash a commencé à augmenter durant 2017, pour atteindre les 1500 $ en décembre. L'une des principales raisons pour lesquelles le Dash cryptocurrency est devenu si populaire est qu'il résout deux des problèmes majeurs de Bitcoin : le manque de confidentialité et la lenteur des transactions.
+Sa valeur commence a redescendre vers janvier 2018 pour se stabilisé sur l'année 2019-2020.
 
 <p style="color: red">ajouter une valorisation par date importante</p>
 

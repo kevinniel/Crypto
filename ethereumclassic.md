@@ -11,12 +11,16 @@ Il s’appuie sur le même fonctionnement de base, que l'Ethereum : la création
 
 ## Historique
 2016 : Création de l'Eutereum Classic
+2017 : L'offre totale d'éther sur Ethereum Classic a été plafonnée à 210 700 000 ETC
 
 <p style="color: red">+ d'infos !</p>
 
 ## Valorisation
 1,5 milliards de dollars de valeur boursière
 Prix : 6,04 $
+
+Il a subit des gros variances entre juin 2017 et janvier 2018, il est monté jusqu'a 25 $.
+Ensuite à part un petit pique en février 2020, il n'a pas subit de gros changement.
 
 <p style="color: red">ajouter les prix par date importante</p>
 
@@ -25,11 +29,13 @@ Il n'y a pas de créateur car ce sont les utilisateurs qui ont décidé de reste
 
 
 ## Algo : 
-L'algo est celui de l'Ethereum avant le fork.
+L'algo de base est celui de l'Ethereum avant le fork, c'est à dire quand la blockchain étais encore immuable.
+Ils ont font des modification afin d'essayer de se rapprocher des objectifs du Bitcoin.
 
 <p style="color: red">c'est a dire ?</p>
 
 ## Spécificités : 
+Il ne subit plus aucune intervention de la part des développeurs d'Etheruem, ce sont la communauté qui développe dessus.
 
 <p style="color: red">A FAIRE</p>
 
