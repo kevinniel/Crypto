@@ -10,12 +10,14 @@ Face à cette contrainte technique, un fork du Bitcoin a dû etre crée, le Bitc
 
 Les blocs de la chaîne Bitcoin étaient originellement limitée à 32 Mo par bloc. <br>
 Afin d'éviter que la chaine ne devienne trop « lourde » pour les ordinateurs des « petits » utilisateurs <br>
-Une limite de 1 Mo fut introduite le 14 juillet 20107. <br>
+Une limite de 1 Mo fut introduite le 14 juillet 2017. <br>
 Même avec cette limite, la chaine originale de Bitcoin pèse en 2018 plus de 180 Go <br>
 Sans cette limite, la chaine aurait pu peser plus de 4 To, ce qui aurait empêché la majeure partie de la communauté d'avoir un nœud Bitcoin complet. <br>
 En définitive, la limite de 1Mo a permis de conserver la décentralisation du Bitcoin. 
 </p>
 
+<strong>Remarques Kevin :</strong>
+<p style="color: red">ajouter + d'infos sur la taille de blocs de base etc... - Done</p>
 
 <h2>Historique</h2>
 
@@ -26,6 +28,8 @@ En définitive, la limite de 1Mo a permis de conserver la décentralisation du B
 15 Novembre 2018 : Split du Bitcoin Cash en deux branche, Bitcoin Cash et Bitcoin SV<br>
 2020: Plus de 18 Millions de tokens Bitcoin Cash circulent sur le marché.</p>
 
+<strong>Remarques Kevin :</strong>
+<p style="color: red">d'autres chiffres ? - Done</p>
 
 <h2>Valorisation</h2>
 
@@ -37,6 +41,9 @@ Novembre 2018 : Baisse significative du Bitcoin Cash à 300$ (préalablement 900
 Decembre 2018 : Plus haute hausse du Bitcoin Cash à 4,355$<br>
 Aout 2018 : Baisse à 519$
 </p>
+
+<strong>Remarques Kevin :</strong>
+<p style="color: red">ajouter des dates clés : forte hausse, forte baisse etc... depuis la création - Done</p>
 
 <h2>Créateur</h2>
 
@@ -57,13 +64,21 @@ Les ASIC capables de miner Bitcoin Cash sont aussi capables de miner Bitcoin car
 
 </p>
 
+<p style="color: green">Remarque: on ne sait pas ce qu'est le SHA-256 et le RIPEMD-160</p>
+
+<strong>Remarques Kevin :</strong>
+<p style="color: red">+ d'info ? exemple ? exemple d'algo de minage ? - Done</p>
+
+
 <h2>Spécificitées</h2>
 
 <p>La taille du bloc permet des transactions plus rapides et à moindre coût. (250 transactions par seconde)<br>
 Bloc de transaction de plus grande taille : 32Mo<br>
-Tous les détenteurs de Bitcoin à partir du bloc 478558 sont également propriétaires de Bitcoin Cash</p>
-Ce bloc correspond au bloc en cours d'utilisation lors du split du Bitcoin vers le Bitcoin Cash.
+Tous les détenteurs de Bitcoin à partir du bloc 478558 sont également propriétaires de Bitcoin Cash<br>
+Ce bloc correspond au bloc en cours d'utilisation lors du split du Bitcoin vers le Bitcoin Cash.</p>
 
+<strong>Remarques Kevin :</strong>
+<p style="color: red">il faut développer la dernière phrase : pourquoi sont-ils aussi propriétaires de bitcoin cash ? - Done</p>
 
 <h2>Avantges/Forces</h2>
 
@@ -91,6 +106,8 @@ hi(k)=k+i² mod M<br>
 On cherche si h(e) est libre, sinon h(e)+1, sinon h(e)+4, sinon h(e)+9,...
 </p>
 
+<strong>Remarques Kevin :</strong>
+<p style="color: red">expliquer le hachage quadratique - Done</p>
 
 <h2>Inconvénients/Faiblesses</h2>
 

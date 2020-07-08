@@ -13,6 +13,7 @@ Ethereum utilise une unité de compte dénommée Ether comme moyen de paiement d
 <p style="color: red">c'est pas une crypto ? c'est juste une plateforme ? - Done</p>
 <p style="color: red">c'est quoi le "contrôle d'un actif numérique" ? - Done</p>
 
+
 # historique
 
 **Décembre 2013** **Vitalik Buterin** publie une description de son projet.
@@ -26,6 +27,9 @@ Ethereum utilise une unité de compte dénommée Ether comme moyen de paiement d
 **En mai 2016**, une organisation autonome décentralisée a été créée pour réunir des fonds, sous forme d'Ether, afin de financer des projets utilisant la chaîne de blocs d'Ethereum. Cette création a été très largement saluée par la communauté et ses investisseurs en rassemblant plus de **12 000 000 d'Ether** (soit **15** % de la monnaie totale émise pour un total de plus de **150 millions d'euros**).
 
 **le 17 juin 2016**, faille du code de TheDAO exploitée par des pirates. Près d'un tiers des encours réunis par le projet pour les déplacer dans un clone dans lequel, selon les propres règles de TheDAO, les fonds sont gelés à titre conservatoire pour une durée d’un mois.
+
+<strong>Remarques ThomasM :</strong>
+<p>Différence entre proof of work" (preuve de travail) et  "proof of stake" ?</p>
 
 #  valorisation
 
@@ -98,9 +102,14 @@ Chaque opération sur la chaîne de blocs Ethereum « coûte » du **gaz** qui c
 
 protocole utilisant un langage "**Turing-Complet**" (possède un pouvoir expressif au moins équivalent à celui des machines de Turing) plutôt que d'alourdir la structure du Bitcoin. Ce qui implique qu’il peut exécuter des fonctions récursives et d'autres calculs mathématiques avancés. 
 
+Blockchain programmable
+
 <p style="color: red">expliquer "Turing-Complet" - Done</p>
 
-Blockchain programmable
+<strong>Remarques ThomasM :</strong>
+<p> Plus de détails sur le fonctionnement d'un langage Turing-Complet ? </p>
+
+
 
 # inconvénients / faiblesses
 
@@ -109,3 +118,6 @@ Problème lors de développement de smart-contracts. Ils sont immuables, une foi
 **Nombre d'Ethereum infini**. Impossible de connaitre le nombre de tokens en circulation. Ethereum reste assez flou sur ces chiffres. D'où le fait du passage en proof-of-stake. On peut se demander si l'Ether est un token rare ou du moins qui se rarifie?
 
 La quantité et la taille des données qui doivent être gérées par le réseau Ethereum varient, c’est-à-dire que le réseau peut être saturé par ces données, et est donc vulnérable.
+
+<strong>Remarques ThomasM :</strong>
+<p> Pourquoi une saturation entraine une vulnerabilité ? </p>

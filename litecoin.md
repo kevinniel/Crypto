@@ -25,19 +25,24 @@ Mais il est de plus en plus plausible que ce soit une fraude interne.
 Selon des sources japonaises,  seul 1% des bitcoins déclarés perdus, soit 7000 environ, par MtGox auraient effectivement été dérobés par des attaquants exploitant la faille de malléabilité du bitcoin qui avait été désignée par MtGox comme la source de l’attaque. 
 </p>
 
+<p style="color: green">Remarque: Il y a une cause du fork vers Litecoin Cash ?</p>
 
+<strong>Remarques Kevin :</strong>
+<p style="color: red">expliquer la faille Mtgox - Done</p>
 
 
 <h2>Valorisation</h2>
 
+<p>
 Le Litecoin a été conçu pour une quantité maximale de 84 millions d’unités, soit environ 4 fois plus que le Bitcoin. <br>
 Actuellement, plus de 64 millions d’unités seraient déjà en circulation.<br>
-Dans l'année 2020 le Litecoin a connu deux piques, un de 60% en Janiver et un de 22% en Fevrier. Pour retomber de 33% juste après.
+Dans l'année 2020 le Litecoin a connu deux piques, un de 60% en Janvier et un de 22% en Fevrier. Pour retomber de 33% juste après.
 En Mars 2020 le Litecoin valait 60$ pour un total de 3,88 milliards.
 Aujourd'hui il est à 40$.
+</p>
 
-
-<p></p>
+<strong>Remarques Kevin :</strong>
+<p style="color: red">donner + de chiffres par date de valorisation importante - Done</p>
 
 
 
@@ -50,7 +55,8 @@ Après avoir vendu toutes ses parts sur le Litecoin, il est actuellement directe
 Son frère a fondé l'entreprise d'echange de cryptomonnaie BTC China.
 </p>
 
-
+<strong>Remarques Kevin :</strong>
+<p style="color: red">quel poste ? quelle formation avant ? - Done</p>
 
 <h2>Algorithme</h2>
 
@@ -59,6 +65,8 @@ L'algorithme SCrypt<br>
 Fonction de dérivation de clé, originellement créée par Colin Percival pour le service de stockage en ligne Tarsnap <br>
 Cet algorithme a été conçu pour être gourmand en mémoire (bande passante) de manière à entraver la création d'ASIC. (circuit intégré spécialisé, ici dans le minage)
 </p>
+
+<p style="color: green">Remarque: Il y a une expliquation pourquoi ils veulent empecher la création d'ASIC ?</p>
 
 <h2>Spécificitées</h2>
 

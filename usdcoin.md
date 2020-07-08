@@ -20,10 +20,13 @@ Juin 2020 : Augmentation de 35% de la valeur de la monnaie.
 
 </p>
 
+<strong>Remarques Kevin :</strong>
+<p style="color: red">+ d'infos - Done</p>
 
 
 <h2>Valorisation</h2>
 
+<p>
 La valeur du USD Coin est basé sur celle du dollar. <br>
 En 2018, 222 828 911 de USDC sont émis, cela signifie que l’entreprise à l’origine de la monaie a 222 828 911 dollars en réserve.
 Actuellemnt le montant est de 237 769 743$
@@ -33,8 +36,11 @@ Le USD Coin n'est pas réelement égal à un dollar.
 02 Novembre 2018 : 0,88$
 19 Feb 2020 : 0,92$
 08 Juillet 2020 : 0,88$
+</p>
 
-<p></p>
+<strong>Remarques Kevin :</strong>
+<p style="color: red">ajouter + d'infos : pourquoi 222828911 dollar en réserve ? pourquoi pas de spéculation ? - Done</p>
+<p style="color: red">ajouter des valeurs concernant les dates importantes - Done</p>
 
 <h2>Créateur</h2>
 
@@ -44,12 +50,16 @@ Goldman Sachs en a acquis une partie lors d’une levée de fonds organisée en 
 Son objectif est de transformer l’économie mondiale en proposant une technologie sécurisée, simple et plus économe pour conserver et utiliser son argent.
 </p>
 
+<strong>Remarques Kevin :</strong>
+<p style="color: red">+ d'infos - Done</p>
 
 <h2>Algorithme</h2>
 
 <p>
 N'utilise pas d'algorithme.
 </p>
+
+<p style="color: green">Remarque: Dans le résumé tu met que c'est basé sur la blockchain Ethereum, il l'a réutilise pas pour l'USD Coin ?</p>
 
 <h2>Spécificitées</h2>
 
@@ -74,3 +84,5 @@ Inversement, si un vendeur souhaite vendre des USD Coin à un prix supérieur à
 Si les reserves ne sont pas remplies, la monnaie disparait.
 </p>
 
+<strong>Remarques Kevin :</strong>
+<p style="color: red">A FAIRE ! - Done</p>
