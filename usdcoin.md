@@ -59,6 +59,8 @@ Son objectif est de transformer l’économie mondiale en proposant une technolo
 N'utilise pas d'algorithme.
 </p>
 
+<p style="color: green">Remarque: Dans le résumé tu met que c'est basé sur la blockchain Ethereum, il l'a réutilise pas pour l'USD Coin ?</p>
+
 <h2>Spécificitées</h2>
 
 <p>

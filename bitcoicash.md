@@ -10,7 +10,7 @@ Face à cette contrainte technique, un fork du Bitcoin a dû etre crée, le Bitc
 
 Les blocs de la chaîne Bitcoin étaient originellement limitée à 32 Mo par bloc. <br>
 Afin d'éviter que la chaine ne devienne trop « lourde » pour les ordinateurs des « petits » utilisateurs <br>
-Une limite de 1 Mo fut introduite le 14 juillet 20107. <br>
+Une limite de 1 Mo fut introduite le 14 juillet 2017. <br>
 Même avec cette limite, la chaine originale de Bitcoin pèse en 2018 plus de 180 Go <br>
 Sans cette limite, la chaine aurait pu peser plus de 4 To, ce qui aurait empêché la majeure partie de la communauté d'avoir un nœud Bitcoin complet. <br>
 En définitive, la limite de 1Mo a permis de conserver la décentralisation du Bitcoin. 
@@ -63,6 +63,8 @@ Le type de minage le plus efficace pour Bitcoin Cash est le minage à l'aide d'A
 Les ASIC capables de miner Bitcoin Cash sont aussi capables de miner Bitcoin car la preuve de travail est la même. 
 
 </p>
+
+<p style="color: green">Remarque: on ne sait pas ce qu'est le SHA-256 et le RIPEMD-160</p>
 
 <strong>Remarques Kevin :</strong>
 <p style="color: red">+ d'info ? exemple ? exemple d'algo de minage ? - Done</p>
