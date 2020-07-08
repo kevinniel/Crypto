@@ -25,7 +25,7 @@ Mais il est de plus en plus plausible que ce soit une fraude interne.
 Selon des sources japonaises,  seul 1% des bitcoins déclarés perdus, soit 7000 environ, par MtGox auraient effectivement été dérobés par des attaquants exploitant la faille de malléabilité du bitcoin qui avait été désignée par MtGox comme la source de l’attaque. 
 </p>
 
-<p style="color: green">Remarque: Il y a une cause du fork vers Litecoin Cash ?</p>
+<p style="color: green">Remarque Simon: Il y a une cause du fork vers Litecoin Cash ?</p>
 
 <strong>Remarques Kevin :</strong>
 <p style="color: red">expliquer la faille Mtgox - Done</p>
@@ -66,7 +66,7 @@ Fonction de dérivation de clé, originellement créée par Colin Percival pour 
 Cet algorithme a été conçu pour être gourmand en mémoire (bande passante) de manière à entraver la création d'ASIC. (circuit intégré spécialisé, ici dans le minage)
 </p>
 
-<p style="color: green">Remarque: Il y a une expliquation pourquoi ils veulent empecher la création d'ASIC ?</p>
+<p style="color: green">Remarque Simon: Il y a une expliquation pourquoi ils veulent empecher la création d'ASIC ?</p>
 
 <h2>Spécificitées</h2>
 

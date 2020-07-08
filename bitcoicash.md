@@ -64,7 +64,7 @@ Les ASIC capables de miner Bitcoin Cash sont aussi capables de miner Bitcoin car
 
 </p>
 
-<p style="color: green">Remarque: on ne sait pas ce qu'est le SHA-256 et le RIPEMD-160</p>
+<p style="color: green">Remarque Simon: on ne sait pas ce qu'est le SHA-256 et le RIPEMD-160</p>
 
 <strong>Remarques Kevin :</strong>
 <p style="color: red">+ d'info ? exemple ? exemple d'algo de minage ? - Done</p>
