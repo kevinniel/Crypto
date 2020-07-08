@@ -45,16 +45,30 @@ Bitcoin est la première crypto-monnaie créée, en 2009 par un individu ou un g
 
 ### 3. Créateur
 
-Satoshi Nakamoto est le pseudonyme utilisé par la ou les personnes derrières le Bitcoin. En effet, à ce jour, on ne connait pas l'identité de créateur du Bitcoin.
+Satoshi Nakamoto est le pseudonyme utilisé par la ou les personnes derrières le Bitcoin. En effet, à ce jour, on ne connait pas l'identité de créateur du Bitcoin. Son nom apparait pour la première fois le 31 octobre 2008 sur le forum de la P2P Foundation.
 
-<p style="color: red">Ajouter quelques infos en plus : quelles sont les personnes qui sont soupconnées d'etre satoshi nakamoto par exemple ? les "légendes urbaines" en gros</p>
+<hr/>
+
+#### Remarque Kévin : Ajouter quelques infos en plus : quelles sont les personnes qui sont soupconnées d'etre satoshi nakamoto par exemple ? les "légendes urbaines" en gros
+
+Plusieurs personnes sont soupçonnées d'être Satoshi Nakamoto : tout d'abord Martti Malmi, un informaticien finlandais dont le nom a disparu du site Bitcoin le jour où Satoshi Nakamoto a cessé de répondre aux autres membres du forum. Il y a aussi Nick Szabo, informaticien et que certains journalistes présentent comme un ancien professeur de l’école de droit de l’Université George Washington. Entre 1998 et 2005, il a développé, avec l'aide d'autres personnes, une monnaie numérique décentralisée appelée Bit Gold. D'autres avancent que Satoshi Nakamoto pourrait être la contraction de plusieurs grands noms de la flière technologique (SAmsung TOSHIba NAKAmichi et MOTOrola), mais cette théorie ne semble un peu farfelue.
+
+<hr/>
+
 
 ### 4. Algorithme
 
 Bitcoin fonctionne autour du système de preuve de travail (Proof-of-work). Ce dernier permet d'approuver une transaction en réalisant une tâche avec une complexité importante, demandant une grande puissance de calcul. La complexité de travail est ajustée de sorte à ce qu'un bloc soit trouvé toutes les 10 minutes. Pour qu'un bloc soit valide, son hash doit être inférieur à la complexité de travail.
 
 Cet algorithme pose cependant de gros problèmes environnementaux car elle requiert une grande consommation éléctrique en raison de la puissance de calcul demandée.
-<p style="color: red">donner davantage de détails sur la consommation électrique (ex : par rapport à un pays ?)</p>
+
+<hr/>
+
+#### Remarque Kévin : Donner davantage de détails sur la consommation électrique (ex : par rapport à un pays ?)
+
+En juillet 2019, la consommation du Bitcoin était estimée à 61,88 Twh (térawatts/heure) par an, soit une consommation supérieure à la Suisse, le Koweït, la Grèce ou encore l’Algérie.
+
+<hr/>
 
 ### 5. Spécificités
 
