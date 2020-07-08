@@ -102,12 +102,14 @@ Chaque opération sur la chaîne de blocs Ethereum « coûte » du **gaz** qui c
 
 protocole utilisant un langage "**Turing-Complet**" (possède un pouvoir expressif au moins équivalent à celui des machines de Turing) plutôt que d'alourdir la structure du Bitcoin. Ce qui implique qu’il peut exécuter des fonctions récursives et d'autres calculs mathématiques avancés. 
 
+Blockchain programmable
+
 <p style="color: red">expliquer "Turing-Complet" - Done</p>
 
 <strong>Remarques ThomasM :</strong>
 <p> Plus de détails sur le fonctionnement d'un langage Turing-Complet ? </p>
 
-Blockchain programmable
+
 
 # inconvénients / faiblesses
 
