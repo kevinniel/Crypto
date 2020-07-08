@@ -31,13 +31,12 @@ Atomic Swaps est un procédé rend possible l'échange entre eux des tokens issu
 <h2>Valorisation</h2>
 
 <p>
- | Date | Valeur |
-|-|-|
-| Mai 2017 | 0.3 € |
-| Décembre 2017 | 13.01 € |
-| Janvier 2018 | 5.04 € |
-| Août 2018 | 0.9 € |
-| Juillet 2020 | 0.55 € |
+
+Mai 2017 : 0.3 € <br>
+Décembre 2017 : 13.01 € <br>
+Janvier 2018 : 5.04 € <br>
+Août 2018 : 0.9 € <br>
+Juillet 2020 : 0.55 € <br>
 
 La capitalisation du marché en juillet 2020 est de 67 millions d’euros.</p>
 
