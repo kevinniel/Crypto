@@ -13,32 +13,43 @@ Pour cette raison, la monnaie a rapidement été nommé “l’argent numérique
 
 <p>
 2011 : Création du Litecoin<br>
-2013: Le cours du Litecoin passe de 5$ à 50$
-2014 : Suite à la faille Mtgox, le cours du Litecoin tombe à 4$
+2013: Le cours du Litecoin passe de 5$ à 50$<br>
+2014 : Suite à la faille Mtgox, le cours du Litecoin tombe à 4$<br>
 Avril 2017 : Création de la fondation Litecoin, pour promouvoir le Litecoin<br>
 15 décembre 2017 : Le Litecoin entre dans le groupe financier Bloomberg LP <br>
 18 Décembre 2018 : Fork du Litecoin vers Litecoin Cash <br>
-Juillet 2018 : Ajout du Litecoin dans le conversion de devices de Google.
+Juillet 2018 : Ajout du Litecoin dans le conversion de devices de Google.<br><br>
+
+La faille de MtGox est initialement percu comme une attaque pirate de la plateforme MtGox (site de Bitcoin), qui se serait fait voler 500 millions de dollars.<br>
+Mais il est de plus en plus plausible que ce soit une fraude interne.
+Selon des sources japonaises,  seul 1% des bitcoins déclarés perdus, soit 7000 environ, par MtGox auraient effectivement été dérobés par des attaquants exploitant la faille de malléabilité du bitcoin qui avait été désignée par MtGox comme la source de l’attaque. 
 </p>
 
-<p style="color: red">expliquer la faille Mtgox</p>
+
 
 
 <h2>Valorisation</h2>
 
-Le Litecoin a été conçu pour une quantité maximale de 84 millions d’unités, soit environ 4 fois plus que le Bitcoin. 
-Actuellement, plus de 64 millions d’unités seraient déjà en circulation.
+Le Litecoin a été conçu pour une quantité maximale de 84 millions d’unités, soit environ 4 fois plus que le Bitcoin. <br>
+Actuellement, plus de 64 millions d’unités seraient déjà en circulation.<br>
+Dans l'année 2020 le Litecoin a connu deux piques, un de 60% en Janiver et un de 22% en Fevrier. Pour retomber de 33% juste après.
+En Mars 2020 le Litecoin valait 60$ pour un total de 3,88 milliards.
+Aujourd'hui il est à 40$.
+
 
 <p></p>
 
-<p style="color: red">donner + de chiffres par date de valorisation importante</p>
+
 
 <h2>Créateur</h2>
 
 <p>Charlie Lee (Charlie Chin ou Charlie Lie)<br>
-Ancien employé de Google.</p>
+Diplomé du MIT en informatique.<br> 
+Ancien employé de Google. Ayant notament travailler sur l'OS Chrome. Pendant son temps chez Google, il travaille sur le développement d'une blockchain basé sur le bitcoin.<br>
+Après avoir vendu toutes ses parts sur le Litecoin, il est actuellement directeur de la fondation Litecoin à plein temps.<br>
+Son frère a fondé l'entreprise d'echange de cryptomonnaie BTC China.
+</p>
 
-<p style="color: red">quel poste ? quelle formation avant ?</p>
 
 
 <h2>Algorithme</h2>
