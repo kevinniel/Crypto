@@ -1,10 +1,10 @@
 # 1. Nom de la cryptomonnaie
 
-EOS.IO, abrégé EOS
+EOS, faisait partie de la blockchain EOS.IO
 
 # 2. Description
 
-EOS.IO est un protocole de blockhain alimenté par la cryptomonnaie native EOS. 
+EOS.IO est une blockchain alimenté par sa propre cryptomonnaie (cryptomonnaie dite native) nommée EOS. 
 
 La plateforme prétend pouvoir éliminer les frais de transaction et également conduire plusieurs millions de transactions par seconde.
 
@@ -22,13 +22,11 @@ Lors de sa publication initiale, un milliard de jetons ont été distribués sur
 
 # 4. Valorisation
 
-À la suite de son lancement, il a fallu attendre quelques mois pour que EOS connaisse une croissance. Cette croissance fut courte mais intense, puisqu'elle est passée de 1.05€ à 17.72€ en seulement deux mois.
+Lors de son lancement, en juillet 2017, la valeur d'un jeton EOS est de 0.98$.
 
-Elle est par la suite, redescendu régulièrement, avant de stabiliser depuis début 2019.
+Le 29 avril 2018 EOS atteint son record de prix, avec une valeur de 21.31$.
 
-Un jeton EOS coûte aujourd'hui 2.244€.
-
-EOS est aujourd'hui la septième valorisation boursière sur le marché des cryptomonnaies.
+Aujourd'hui son prix est de 2.62$ et EOS est la onzième valorisation boursière sur le marché des cryptomonnaies.
 
 <p style="color: red">ajouter des valeurs par date importante</p>
 
@@ -42,10 +40,11 @@ La personne derrière le protocole de blockchain EOS est Daniel Larimer, un Amé
 
 # 6. Algorithme
 
-EOS utilise le même algorithme que le Bitcoin et l'Ehtereum, à savoir, le secp256k1
+EOS se passe d'un algorithme de consensus classique. À la place, il opte pour une utilisation du DPoS (Delegated Proof of Stake) contrairement à des blockchains classiques qui utilisent le PoW (Proof of Work) ou le PoS (Proof of Stake).
+
+Le DPoS, fonctionne sur le principe du PoS. Cependant, les utilisations qui crééent des blocks de la chaîne doivent être élues par les membres de la communauté. Ce système permet de s'assurer qu'une blockchain ne sera pas contrôlé par une minorité d'utilisateurs.
 
 <p style="color: red">expliquer l'algo un minimum ? d'ou il vient ? pourquoi lui ? quelle particularité ?</p>
-
 
 # 7. Spécifités
 	
