@@ -12,6 +12,9 @@ Et c'est là qu'intervient ChainLink et son service d'oracle. Avec ChainLink, le
 
 <p style="color: red">expliquer les "oracles" - Done</p>
 
+<strong>Remarques ThomasM :</strong>
+<p> Exemples d'oracles ? </p>
+
 # historique
 
 Création en **2018**
@@ -90,3 +93,6 @@ Très peu de marketing autour du projet.
 Seulement 35% des tokens ont été vendus au public.
 L'équipe de développement ne communique pas énormément sur l'évolution du projet.
 Des concurrents sont apparus sur le marché et semblent atteindre leurs objectifs beaucoup plus rapidement.
+
+<strong>Remarques ThomasM :</strong>
+<p> Exemples de concurrents  ? </p>
