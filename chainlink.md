@@ -33,15 +33,15 @@ Plus haut taux historique le 4 mars 2020 à 4,94$ soit une multiplication de son
 
 La communauté est très entousiaste quant à l'évolution du Chainlink.
 
-16 juillet 2019 : 1 LINK pour 0.17 €
-4 mai 2019 : 1 LINK pour 0.44 €
-1 juillet 2019 : 1 LINK pour 3.16 €
-14 septembre 2019 : l LINK pour 1,42 €
-16 novembre 2019 : l LINK pour 2.69€
-6 janvier 2020 : l LINK pour 1.63 €
-7 mars 2020 : l LINK pour 4.13 €
-17 mai 2020 : l LINK pour 3.40 €
-8 juillet 2020 : l LINK pour 5.45 €
+**16 juillet 2019** : 1 LINK pour **0.17 €**
+**4 mai 2019** : 1 LINK pour **0.44 €**
+**1 juillet 2019** : 1 LINK pour **3.16 €**
+**14 septembre 2019** : l LINK pour **1.42 €**
+**16 novembre 2019** : l LINK pour **2.69€**
+**6 janvier 2020** : l LINK pour **1.63 €**
+**7 mars 2020** : l LINK pour **4.13 €**
+**17 mai 2020** : l LINK pour **3.40 €**
+**8 juillet 2020** : l LINK pour **5.45 €**
 
 <p style="color: red">ajouter des infos sur l'évolution du prix par date - Done</p>
 

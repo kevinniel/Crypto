@@ -22,6 +22,10 @@ Markus a basé le Dogecoin sur une crypto-monnaie existante, le Luckycoin qui pr
 
 capitalisation de **60 millions de dollars** en **janvier 2014**.
 
+**Le 19 janvier 2014**, la communauté du Dogecoin a organisé une collecte de fonds dans le but de recueillir **50 000 $** pour l' équipe jamaïcaine de bobsleigh , qui s'était qualifiée pour les Jeux olympiques d'hiver de Sochi mais ne pouvait se permettre de s'y rendre. Le **deuxième jour**, une somme de **36 000 de dollars** en Dogecoin a été donnée
+
+Le **25 mars 2014**, la communauté Dogecoin a réussi à collecter **67,8 millions de Dogecoins** (environ **55 000 dollars** à l'époque) dans le but de parrainer le pilote de NASCAR
+
 **100 milliards** de tokens étaient en circulation à la **mi-2015**, avec **5,256 milliards** de tokens supplémentaires **chaque année** par la suite.
 
 **Le 25 avril 2015**, le Dogecoin avait une capitalisation boursière de **13,5 millions de dollars**.
@@ -30,18 +34,29 @@ capitalisation de **60 millions de dollars** en **janvier 2014**.
 
 **En janvier 2018**, la capitalisation a atteint **2 milliards de dollars**
 
-<p style="color: red">peut etre y a t il d'autres dates importantes concernant la valorisation ? ou au moins en donner un peu plus ?</p>
+**1 janvier 2014** : 1 DOGE pour **0,000 351 $**
+**1 janvier 2015** : 1 DOGE pour **0,000 180 $**
+**1 janvier 2016** : 1 DOGE pour **0,000 154 $**
+**1 janvier 2017** : 1 DOGE pour **0,000 225 $**
+**1 janvier 2018** : 1 DOGE pour **0,007 908 $**
+**1 janvier 2019** : 1 DOGE pour **0,002 359 $**
+**1 janvier 2020** : 1 DOGE pour **0,002 029 $**
+
+<p style="color: red">peut etre y a t il d'autres dates importantes concernant la valorisation ? ou au moins en donner un peu plus ? - Done</p>
 
 # créateur
-**Billy Markus**, programmeur de Portland
+**Billy Markus**, programmeur de Portland. Il était développeur à IBM
 
-<p style="color: red">parcours ? formation ?</p>
+**Jackson Palmer**, co-fondateur du Dogecoin
+
+<p style="color: red">parcours ? formation ? - Pas plus d'infos que ça ...</p>
 
 # algo => qu'est-ce qui se cache derrière la crypto
 
-le Luckycoin (la base du Dogecoin) est basé sur le **Litecoin9** qui utilise également la **technologie scrypt** dans son algorithme de preuve de travail. L'utilisation de scrypt signifie que les mineurs ne peuvent pas utiliser l'équipement de minage SHA-256 comme pour le bitcoin.
+le Luckycoin (la base du Dogecoin) est basé sur le **Litecoin9** qui utilise également la **technologie scrypt** (une fonction de dérivation de clé conçu de façon qu'il soit coûteux en calcul et en mémoire notamment sur des architectures dédiées) dans son algorithme de preuve de travail. 
+L'utilisation de scrypt signifie que les mineurs ne peuvent pas utiliser l'équipement de minage SHA-256 comme pour le bitcoin.
 
-<p style="color: red">expliquer "scrypt"</p>
+<p style="color: red">expliquer "scrypt" - Done</p>
 
 
 # spécificités
@@ -52,9 +67,14 @@ La taille de la blockchain du Dogecoin était de **38,8 gigabit** en octobre 201
 
 # avantages / forces
 
+Sa communauté détendue et enjouée.
+
 <p style="color: red">A FAIRE</p>
 
 # inconvénients / faiblesses
 
-Nombre de Dogecoin illimités ce qui fait que le token n'est pas "rare" et qu'il a très peu de valeur
+Nombre de Dogecoin illimités ce qui fait que le token n'est pas "rare" et qu'il a très peu de valeur.
+
+Sa communauté détendue et enjouée car les autres devises sont beaucoup plus professionnelles
+
 <p style="color: red">A FAIRE</p>

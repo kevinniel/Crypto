@@ -4,14 +4,14 @@
 
 # description
 
-**Ethereum** est une **plate-forme globale** et **open-source** (ou un protocole d'échanges) pour des applications décentralisées. Sur **Ethereum**, vous pouvez écrire du code qui contrôle un **actif numérique**, qui s'exécute exactement comme il a été programmé et qui est accessible partout dans le monde.
+**Ethereum** est une **plate-forme globale** et **open-source** (ou un protocole d'échanges) pour des applications décentralisées. Sur **Ethereum**, vous pouvez écrire du code qui contrôle un **actif numérique** (un bien immateriel avec une valeur financière), qui s'exécute exactement comme il a été programmé et qui est accessible partout dans le monde.
 
 Ethereum permet la création par les utilisateurs de contrats intelligents grâce à un langage Turing-complet. Ces contrats intelligents sont basés sur un protocole informatique permettant de vérifier ou de mettre en application un contrat mutuel. Ils sont déployés et consultables publiquement dans une blockchain. 
 
 Ethereum utilise une unité de compte dénommée Ether comme moyen de paiement de ces contrats
 
 <p style="color: red">c'est pas une crypto ? c'est juste une plateforme ? - Done</p>
-<p style="color: red">c'est quoi le "contrôle d'un actif numérique" ?</p>
+<p style="color: red">c'est quoi le "contrôle d'un actif numérique" ? - Done</p>
 
 # historique
 
@@ -37,7 +37,24 @@ Ethereum utilise une unité de compte dénommée Ether comme moyen de paiement d
 
 **Actuellement** la **2eme** plus important cryptomonnaie décentralisé avec une capitalisation de plus de **23 milliards d'euros**.
 
-<p style="color: red">ajouter des prix par date importante</p>
+**10 aout 2015** : 1 ETHER pour **1.06 €**
+**25 avril 2016** : 1 ETHER pour **6.58 €**
+**3 fevrier 2017** : 1 ETHER pour **9.70 €**
+**7 avril 2017** : 1 ETHER pour **37.46 €**
+**15 juin 2017** : 1 ETHER pour **305.18 €**
+**27 Septembre 2017** : 1 ETHER pour **274.45 €**
+**19 decembre 2017** : 1 ETHER pour **719.38 €**
+**14 janvier 2018** : 1 ETHER pour **1 203.68 €**
+**3 avril 2018** : 1 ETHER pour **368.26 €**
+**14 mai 2018** : 1 ETHER pour **644.05 €**
+**23 janvier 2019** : 1 ETHER pour **104.10 €**
+**29 juin 2019** : 1 ETHER pour **280.95 €**
+**8 novembre 2019** : 1 ETHER pour **162.78 €**
+**16 fevrier 2020** : 1 ETHER pour **229.70 €**
+**16 avril 2020** : 1 ETHER pour **152.80 €**
+**8 juillet 2020** : 1 ETHER pour **215.72 €**
+
+<p style="color: red">ajouter des prix par date importante - Done</p>
 
 # créateur
 
@@ -54,7 +71,11 @@ Il s'inscrit à l'Université de Waterloo, qu'il quitte en 2014 pour travailler 
 Sa fonction de hachage, le "**Ethash**". 
 Il s'agit d'une fonction de hachage appartenant à la famille **Keccak**, la même famille à laquelle appartiennent les fonctions de hachage **SHA-3**. Cependant, **Ethash n'est pas une fonction SHA-3** et ne doit pas être confondu avec eux.
 
-<p style="color: red">tu en dis soit trop, soit pas assez. J'opte pour la deuxième : détail davantage !</p>
+SHA-3 est issu de la NIST hash function competition (une compétition organisé par NIST pour trouver une nouvelle fonction de hachage destiné à remplacer CHA-1 et CHA-2) qui a élu l'algorithme Keccak (SHA-3) le 2 octobre 2012. Elle n’est pas destinée à remplacer SHA-2, qui n’a à l'heure actuelle pas été compromise par une attaque significative, mais à fournir une autre solution à la suite des possibilités d'attaques contre les standards MD5, SHA-0 et SHA-1.
+
+Keccak est une fonction éponge, dans laquelle les blocs du messages sont XORés avec des bits initiaux, ensuite permutés de manière réversible.
+
+<p style="color: red">tu en dis soit trop, soit pas assez. J'opte pour la deuxième : détail davantage ! - Done</p>
 
 **Solidity** est un langage de programmation, de type orienté objet. Il permet le développement de **smart-contract** (un programme informatique dont l’exécution ne nécessite pas l’intervention d’un tiers de confiance) **sur la blockchain Ethereum**. Mais également sur d’autres blockchains liées, comme Tomochain. Afin de permettre à n’importe quel développeur de travailler rapidement avec ce nouveau langage (et aux néophytes d’apprendre facilement) il emprunte beaucoup à d’autres langages de programmations, notamment **Javascript, C++ ou C#**.
 
@@ -75,9 +96,9 @@ Chaque opération sur la chaîne de blocs Ethereum « coûte » du **gaz** qui c
 
 # avantages / forces
 
-protocole utilisant un langage "**Turing-Complet**" plutôt que d'alourdir la structure du Bitcoin. Ce qui implique qu’il peut exécuter des fonctions récursives et d'autres calculs mathématiques avancés. 
+protocole utilisant un langage "**Turing-Complet**" (possède un pouvoir expressif au moins équivalent à celui des machines de Turing) plutôt que d'alourdir la structure du Bitcoin. Ce qui implique qu’il peut exécuter des fonctions récursives et d'autres calculs mathématiques avancés. 
 
-<p style="color: red">expliquer "Turing-Complet"</p>
+<p style="color: red">expliquer "Turing-Complet" - Done</p>
 
 Blockchain programmable
 
