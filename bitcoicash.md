@@ -16,7 +16,8 @@ Sans cette limite, la chaine aurait pu peser plus de 4 To, ce qui aurait empêch
 En définitive, la limite de 1Mo a permis de conserver la décentralisation du Bitcoin. 
 </p>
 
-<p style="color: red">ajouter + d'infos sur la taille de blocs de base etc...</p>
+<strong>Remarques Kevin :</strong>
+<p style="color: red">ajouter + d'infos sur la taille de blocs de base etc... - Done</p>
 
 <h2>Historique</h2>
 
@@ -27,7 +28,8 @@ En définitive, la limite de 1Mo a permis de conserver la décentralisation du B
 15 Novembre 2018 : Split du Bitcoin Cash en deux branche, Bitcoin Cash et Bitcoin SV<br>
 2020: Plus de 18 Millions de tokens Bitcoin Cash circulent sur le marché.</p>
 
-<p style="color: red">d'autres chiffres ?</p>
+<strong>Remarques Kevin :</strong>
+<p style="color: red">d'autres chiffres ? - Done</p>
 
 <h2>Valorisation</h2>
 
@@ -40,7 +42,8 @@ Decembre 2018 : Plus haute hausse du Bitcoin Cash à 4,355$<br>
 Aout 2018 : Baisse à 519$
 </p>
 
-<p style="color: red">ajouter des dates clés : forte hausse, forte baisse etc... depuis la création</p>
+<strong>Remarques Kevin :</strong>
+<p style="color: red">ajouter des dates clés : forte hausse, forte baisse etc... depuis la création - Done</p>
 
 <h2>Créateur</h2>
 
@@ -61,7 +64,8 @@ Les ASIC capables de miner Bitcoin Cash sont aussi capables de miner Bitcoin car
 
 </p>
 
-<p style="color: red">+ d'info ? exemple ? exemple d'algo de minage ?</p>
+<strong>Remarques Kevin :</strong>
+<p style="color: red">+ d'info ? exemple ? exemple d'algo de minage ? - Done</p>
 
 
 <h2>Spécificitées</h2>
@@ -71,7 +75,9 @@ Bloc de transaction de plus grande taille : 32Mo<br>
 Tous les détenteurs de Bitcoin à partir du bloc 478558 sont également propriétaires de Bitcoin Cash<br>
 Ce bloc correspond au bloc en cours d'utilisation lors du split du Bitcoin vers le Bitcoin Cash.</p>
 
-<p style="color: red">il faut développer la dernière phrase : pourquoi sont-ils aussi propriétaires de bitcoin cash ?</p>
+<strong>Remarques Kevin :</strong>
+<p style="color: red">il faut développer la dernière phrase : pourquoi sont-ils aussi propriétaires de bitcoin cash ? - Done</p>
+
 <h2>Avantges/Forces</h2>
 
 <p>Les mineurs de BitCoin peuveut aussi miner le Bitcoin Cash (même algo)<br>
@@ -98,7 +104,8 @@ hi(k)=k+i² mod M<br>
 On cherche si h(e) est libre, sinon h(e)+1, sinon h(e)+4, sinon h(e)+9,...
 </p>
 
-<p style="color: red">expliquer le hachage quadratique</p>
+<strong>Remarques Kevin :</strong>
+<p style="color: red">expliquer le hachage quadratique - Done</p>
 
 <h2>Inconvénients/Faiblesses</h2>
 

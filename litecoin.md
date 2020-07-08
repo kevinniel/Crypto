@@ -25,7 +25,8 @@ Mais il est de plus en plus plausible que ce soit une fraude interne.
 Selon des sources japonaises,  seul 1% des bitcoins déclarés perdus, soit 7000 environ, par MtGox auraient effectivement été dérobés par des attaquants exploitant la faille de malléabilité du bitcoin qui avait été désignée par MtGox comme la source de l’attaque. 
 </p>
 
-<p style="color: red">expliquer la faille Mtgox</p>
+<strong>Remarques Kevin :</strong>
+<p style="color: red">expliquer la faille Mtgox - Done</p>
 
 
 <h2>Valorisation</h2>
@@ -38,7 +39,8 @@ En Mars 2020 le Litecoin valait 60$ pour un total de 3,88 milliards.
 Aujourd'hui il est à 40$.
 </p>
 
-<p style="color: red">donner + de chiffres par date de valorisation importante</p>
+<strong>Remarques Kevin :</strong>
+<p style="color: red">donner + de chiffres par date de valorisation importante - Done</p>
 
 
 
@@ -51,7 +53,8 @@ Après avoir vendu toutes ses parts sur le Litecoin, il est actuellement directe
 Son frère a fondé l'entreprise d'echange de cryptomonnaie BTC China.
 </p>
 
-<p style="color: red">quel poste ? quelle formation avant ?</p>
+<strong>Remarques Kevin :</strong>
+<p style="color: red">quel poste ? quelle formation avant ? - Done</p>
 
 <h2>Algorithme</h2>
 

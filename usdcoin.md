@@ -19,7 +19,9 @@ Septembre 2018 : Circle ouvre ses portes à d'autres institutions intéressées 
 Juin 2020 : Augmentation de 35% de la valeur de la monnaie.
 
 </p>
-<p style="color: red">+ d'infos</p>
+
+<strong>Remarques Kevin :</strong>
+<p style="color: red">+ d'infos - Done</p>
 
 
 <h2>Valorisation</h2>
@@ -36,8 +38,9 @@ Le USD Coin n'est pas réelement égal à un dollar.
 08 Juillet 2020 : 0,88$
 </p>
 
-<p style="color: red">ajouter + d'infos : pourquoi 222828911 dollar en réserve ? pourquoi pas de spéculation ?</p>
-<p style="color: red">ajouter des valeurs concernant les dates importantes</p>
+<strong>Remarques Kevin :</strong>
+<p style="color: red">ajouter + d'infos : pourquoi 222828911 dollar en réserve ? pourquoi pas de spéculation ? - Done</p>
+<p style="color: red">ajouter des valeurs concernant les dates importantes - Done</p>
 
 <h2>Créateur</h2>
 
@@ -47,7 +50,8 @@ Goldman Sachs en a acquis une partie lors d’une levée de fonds organisée en 
 Son objectif est de transformer l’économie mondiale en proposant une technologie sécurisée, simple et plus économe pour conserver et utiliser son argent.
 </p>
 
-<p style="color: red">+ d'infos</p>
+<strong>Remarques Kevin :</strong>
+<p style="color: red">+ d'infos - Done</p>
 
 <h2>Algorithme</h2>
 
@@ -78,4 +82,5 @@ Inversement, si un vendeur souhaite vendre des USD Coin à un prix supérieur à
 Si les reserves ne sont pas remplies, la monnaie disparait.
 </p>
 
-<p style="color: red">A FAIRE !</p>
+<strong>Remarques Kevin :</strong>
+<p style="color: red">A FAIRE ! - Done</p>
