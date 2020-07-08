@@ -82,7 +82,7 @@ La sécurité grâce à notamment :<br>
 	<li>Une protection contre la relecture</li>
  </ul>
 La garantie de sa technologie blockchain<br>
-L’évolution de la cryptomonnaie et de sa valeur<br>
+L’évolution de la cryptomonnaie et de sa valeur<br><br>
 
 Le hachage quadratique est un hachage fermé: <br>
 La fonction de hachage ne retourne qu'une valeur par clé (fermé sur cette valeur) et on range la clé à partir de cette valeur.<br>
