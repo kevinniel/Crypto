@@ -4,9 +4,13 @@
 
 # description
 
-**Ethereum** est une **plate-forme globale** et **open-source** pour des applications décentralisées. Sur **Ethereum**, vous pouvez écrire du code qui contrôle un **actif numérique**, qui s'exécute exactement comme il a été programmé et qui est accessible partout dans le monde.
+**Ethereum** est une **plate-forme globale** et **open-source** (ou un protocole d'échanges) pour des applications décentralisées. Sur **Ethereum**, vous pouvez écrire du code qui contrôle un **actif numérique**, qui s'exécute exactement comme il a été programmé et qui est accessible partout dans le monde.
 
-<p style="color: red">c'est pas une crypto ? c'est juste une plateforme ?</p>
+Ethereum permet la création par les utilisateurs de contrats intelligents grâce à un langage Turing-complet. Ces contrats intelligents sont basés sur un protocole informatique permettant de vérifier ou de mettre en application un contrat mutuel. Ils sont déployés et consultables publiquement dans une blockchain. 
+
+Ethereum utilise une unité de compte dénommée Ether comme moyen de paiement de ces contrats
+
+<p style="color: red">c'est pas une crypto ? c'est juste une plateforme ? - Done</p>
 <p style="color: red">c'est quoi le "contrôle d'un actif numérique" ?</p>
 
 # historique
@@ -52,9 +56,9 @@ Il s'agit d'une fonction de hachage appartenant à la famille **Keccak**, la mê
 
 <p style="color: red">tu en dis soit trop, soit pas assez. J'opte pour la deuxième : détail davantage !</p>
 
-**Solidity** est un langage de programmation, de type orienté objet. Il permet le développement de **smart-contract sur la blockchain Ethereum**. Mais également sur d’autres blockchains liées, comme Tomochain. Afin de permettre à n’importe quel développeur de travailler rapidement avec ce nouveau langage (et aux néophytes d’apprendre facilement) il emprunte beaucoup à d’autres langages de programmations, notamment **Javascript, C++ ou C#**.
+**Solidity** est un langage de programmation, de type orienté objet. Il permet le développement de **smart-contract** (un programme informatique dont l’exécution ne nécessite pas l’intervention d’un tiers de confiance) **sur la blockchain Ethereum**. Mais également sur d’autres blockchains liées, comme Tomochain. Afin de permettre à n’importe quel développeur de travailler rapidement avec ce nouveau langage (et aux néophytes d’apprendre facilement) il emprunte beaucoup à d’autres langages de programmations, notamment **Javascript, C++ ou C#**.
 
-<p style="color: red">expliquer les smart contracts</p>
+<p style="color: red">expliquer les smart contracts - Done</p>
 
 # spécificités
 

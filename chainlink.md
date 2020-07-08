@@ -4,19 +4,21 @@
 
 # description courte
 
-**Chainlink** est la toute première plateforme à avoir proposé les « oracles » dans le secteur des cryptomonnaies. **Fondée sur la blockchain d’Ethereum**, elle s’inscrit dans l’évolution technologique des blockchains, qui a notamment permis la mise en place des **smart contracts**. Ces contrats intelligents sont capables d’activer un programme informatique de manière autonome et décentralisée, sans l’intervention d’un tiers. 
+**Chainlink** est la toute première plateforme à avoir proposé les « oracles », des source d’informations qui permet d’intégrer des variables issues du monde réel dans le secteur des cryptomonnaies. **Fondée sur la blockchain d’Ethereum**, elle s’inscrit dans l’évolution technologique des blockchains, qui a notamment permis la mise en place des **smart contracts**. Ces contrats intelligents sont capables d’activer un programme informatique de manière autonome et décentralisée, sans l’intervention d’un tiers. 
 
 Mais le gros problème des smart contracts est qu'ils ne peuvent gérer que les informations présentes sur la blockchain. Cela limite donc fortement l'intérêt de ces contrats intelligents car ils ne peuvent pas obtenir certaines informations directement, comme par exemple la température à une date donnée, le vainqueur d'un événement sportif, le résultat du vote sur une nouvelle loi, etc.
 
 Et c'est là qu'intervient ChainLink et son service d'oracle. Avec ChainLink, les utilisateurs des smart contracts peuvent utiliser le réseau d'oracles mise en place par l'entreprise afin de récupérer des informations dites "**off-chain**", c'est-à-dire provenant de l'extérieur du réseau.
 
-<p style="color: red">expliquer les "oracles"</p>
+<p style="color: red">expliquer les "oracles" - Done</p>
 
-# historique (création, évolution etc...)
+# historique
 
 Création en **2018**
 
-<p style="color: red">évolution depuis ???</p>
+12 mars 2020 augmentation de près de 150% de son cours
+
+<p style="color: red">évolution depuis ??? - Pas plus d'info?</p>
 
 # valorisation (historique, mise en place, etc...)
 
@@ -31,9 +33,19 @@ Plus haut taux historique le 4 mars 2020 à 4,94$ soit une multiplication de son
 
 La communauté est très entousiaste quant à l'évolution du Chainlink.
 
-<p style="color: red">ajouter des infos sur l'évolution du prix par date</p>
+16 juillet 2019 : 1 LINK pour 0.17 €
+4 mai 2019 : 1 LINK pour 0.44 €
+1 juillet 2019 : 1 LINK pour 3.16 €
+14 septembre 2019 : l LINK pour 1,42 €
+16 novembre 2019 : l LINK pour 2.69€
+6 janvier 2020 : l LINK pour 1.63 €
+7 mars 2020 : l LINK pour 4.13 €
+17 mai 2020 : l LINK pour 3.40 €
+8 juillet 2020 : l LINK pour 5.45 €
 
-# créateur (nom, métier, etc...)
+<p style="color: red">ajouter des infos sur l'évolution du prix par date - Done</p>
+
+# créateur
 
 **Sergey Nazarov - CEO** : il a commencé sa carrière chez FirstMark Capital avant de rejoindre le monde des crypto-monnaies en 2011
 **Steve Ellis - CTO** : ancien ingénieur et team leader chez Pivotal Labs, où il travaillait sur la sécurité et la scalabilité du système.
@@ -51,21 +63,25 @@ La communauté est très entousiaste quant à l'évolution du Chainlink.
 
 # spécificités
 
-Le but principal de ChainLink est de **connecter** le monde **on-chain** (sur la blockchain) et le monde **off-chain** (les informations qui ne se trouvent pas sur la blockchain). Pour mener à bien son objectif, le projet sera composé de **deux infrastructures** : une on-chain et une autre off-chain.
+Le but principal de ChainLink est de **connecter** le monde **on-chain** (sur la blockchain) et le monde **off-chain** (les informations qui ne se trouvent pas sur la blockchain). Pour mener à bien son objectif, le projet sera composé de **deux infrastructures** : une on-chain et une autre off-chain. 
 
-<p style="color: red">Expliquer davantage la différence on-chain / off-chain : quel intérêt de connecter les deux ? pour quoi faire ? dans quel but ?</p>
+L'infrastructure on-chain permet la sélection d'oracle manuelle ou non, le transfer de données sur la blockchain et la compilation des résultats.
+
+Quant à elle, l'infrastructure off-chain contient des "noeuds d'oracles" qui sont connectés sur le réseau Ethereum. Ces noeuds collectent des données, les traites et les transmets à l'oracle. En remerciement du travail effectué, l'opérateur off-chain derrière l'oracle reçoit des jetons LINK en guise de paiement pour la collecte et l'envoie des données.
+
+<p style="color: red">Expliquer davantage la différence on-chain / off-chain : quel intérêt de connecter les deux ? pour quoi faire ? dans quel but ? - Done</p>
 
 # avantages / forces
 
 Le projet veut **faciliter l'acquisition** et **l'intégration** d'informations **off-chain** d'une manière **simple** et **efficace**.
 Possibilité d'insérer les critères de notre choix pour choisir les oracles.
-Les oracles reçoivent des notes reflétant leur réputation, ce qui dissuadera ces derniers de transmettre de fausses informations de peur de ne plus être choisi et donc, de ne plus recevoir de token LINK en guise de paiement.
+Les oracles reçoivent des notes reflétant leur réputation, ce qui dissuadera ces derniers de transmettre de fausses informations de peur de ne plus être choisi et donc, de ne plus recevoir de token LINK (token de chainlink) en guise de paiement.
 Pondération des informations fournies par les oracles lorsqu'elles ne sont pas totalement identiques.
 L'équipe de développement convient parfaitement à la mise en place d'un tel projet.
 Le projet est indépendant quant à la blockchain utilisée. A terme, son système d'oracle pourra fonctionner avec d'autres blockchain qu'Ethereum.
 Possibilité d'ajouter des "adapters" afin d'améliorer l'efficacité de certains processus.
 
-<p style="color: red">expliquer les token LINK</p>
+<p style="color: red">expliquer les token LINK - Done</p>
 
 
 # inconvénients / faiblesses

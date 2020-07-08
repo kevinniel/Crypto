@@ -6,7 +6,7 @@
 
 **Dogecoin** est une crypto-monnaie avec une image du **Shiba Inu** chien du mème « **Doge** » comme logo. Présenté comme une **blague** le 6 décembre 2013, le Dogecoin a rapidement développé sa propre communauté en ligne et a atteint une capitalisation de **60 millions de dollars en janvier 2014**.
 
-# historique (création, évolution etc...)
+# historique
 
 **Le 6 décembre 2013**, lancement officiel du Dogecoin.
 
@@ -18,7 +18,7 @@
 
 Markus a basé le Dogecoin sur une crypto-monnaie existante, le Luckycoin qui présente une **récompense aléatoire** reçue pour l’exploitation d’un bloc, cette particularité a ensuite été remplacée par une **récompense de bloc statique** en **mars 2014**.
 
-# valorisation (historique, mise en place, etc...)
+# valorisation
 
 capitalisation de **60 millions de dollars** en **janvier 2014**.
 
@@ -32,8 +32,7 @@ capitalisation de **60 millions de dollars** en **janvier 2014**.
 
 <p style="color: red">peut etre y a t il d'autres dates importantes concernant la valorisation ? ou au moins en donner un peu plus ?</p>
 
-# créateur (nom, métier, etc...)
-
+# créateur
 **Billy Markus**, programmeur de Portland
 
 <p style="color: red">parcours ? formation ?</p>
@@ -57,4 +56,5 @@ La taille de la blockchain du Dogecoin était de **38,8 gigabit** en octobre 201
 
 # inconvénients / faiblesses
 
+Nombre de Dogecoin illimités ce qui fait que le token n'est pas "rare" et qu'il a très peu de valeur
 <p style="color: red">A FAIRE</p>
