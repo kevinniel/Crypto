@@ -13,7 +13,7 @@ Il s'agit d'une plateforme d’échange permettant de connecter toutes les crypt
 
 <p>septembre 2016 : Création du Komodo</p>
 Mars 2017 : Sortie de la première version rudimentaire du système d’échange décentralisé (DEX*) de Komodo, permettant des échanges peer-to-peer en ligne de commande entre les pièces basées sur le protocole Bitcoin.<br>
-Octobre 2017 : Intégration des swaps atomiques(voir spécificitées) dans le portefeuille Electrum SPV de Bitcoin.<br>
+Octobre 2017 : Intégration des swaps atomiques(voir spécificitées) dans le portefeuille Electrum SPV de Bitcoin. la technologie SPV permet à un client léger de vérifier qu'une transaction est incluse dans la blockchain Bitcoin, sans télécharger la blockchain entière.<br>
 Février 2018 : Swaps atomiques entre les pièces à base de bitcoin et les tokens ERC20 (entre 95% de toutes les pièces et tokens)<br>
 Juillet 2018 : Introduction de la synchronisation multi-chaîne et de l’interopérabilité interchaîne<br>
 Juillet 2019 : Lancement de la version bêta publique d’AtomicDEX, le premier DEX basé entièrement sur des swaps Atomic.<p>

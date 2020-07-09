@@ -60,6 +60,8 @@ L’idée c’est de redonner aux utilisateurs la possibilité d’utiliser à n
 
 <h2>Spécificitées</h2>
 
+<p>Le Bitcoin Gold est un fork du Bitcoin.<br>
+ </pr>
 <p style="color: red">Remarque Hugo : à compléter</p>
 
 <h2>Avantges/Forces</h2>
@@ -69,6 +71,8 @@ Tentative de décentralisation du processus de minage.<br>
 Solution de paiement BTGPay facile à mettre en place.<br>
 La difficulté de minage s'adapte après chaque bloc et la fonction SegWit est activée.<br>
 La pièce est disponible sur de nombreux sites d'échange.</p>
+
+SegWit(abréviation de Segregated Witness):  est une mise à niveau rétrocompatible du protocole Bitcoin (à savoir un soft fork) qui modifie en profondeur la structure des transactions en déplaçant les données de signature (le témoin ou witness) dans une base de données séparée (segregated)</p>
 
 <p style="color: red">Remarque Hugo : expliquer la fonction SegWit</p>
 
