@@ -9,7 +9,6 @@ La crypto-monnaie Komodo n'est donc pas un concurrent direct au Bitcoin mais plu
 Il s'agit d'une plateforme d’échange permettant de connecter toutes les crypto-monnaies entre elles et qui utilise un protocole permettant aux mineurs de miner avec un CPU et un GPU.</p>
 
 
-
 <h2>Historique</h2>
 
 <p>septembre 2016 : Création du Komodo</p>
@@ -26,6 +25,7 @@ Atomic Swaps est un procédé rend possible l'échange entre eux des tokens issu
 
 <p style="color: red">expliquer les swaps atomiques</p>
 <p style="color: red">expliquer "DEX"</p>
+<p style="color: red">Remarque Hugo : qu'est-ce que le portefeuille Electrum SPV de Bitcoin ?</p>
 
 
 <h2>Valorisation</h2>
