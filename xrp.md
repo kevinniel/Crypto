@@ -66,7 +66,7 @@ On peut diviser l'algorithme de consensus de Ripple en plusieurs parties :
  - En 2017, Ripple a connu une augmentation de son prix de l'ordre de 36 000 %, devenant la cryptomonnaie la plus performante de l'année.
  - Ripple utilise un pont bitcoin, qui permet de payer un utilisateur bitcoin, directement d'un compte Ripple sans avoir à posséder de cette cryptomonnaie.
  - Développé en C++.
- - Fonction de hashage en SHA256.
+ - Fonction de hashage en SHA256. Le SHA256 est une fonction de hashage, conçu par la NSA. Cette fonction produit un haché de 256 bits.
  - 100 000 000 000 de XRP maximale.
  
  <p style="color: red">Remarque Thibault : préciser SHA256</p>

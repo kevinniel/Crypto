@@ -8,7 +8,9 @@ COSMOS (ATOM) est la principale cryptomonnaie existante sur le réseau COSMOS.
 
 Le réseau COSMOS consiste en plusieurs milliers de blockchains reliées entre elles. Ces dernières sont toutes reliées à une blockchain centrale nommée COSMOS HUB, développée par les fondateurs du projet.
 
-La cryptomonnaie est conçu pour faciliter la communication, la scalability et l'interopérabilité  entre plusieurs blockchains d'une même plateforme. L'intérêt est de pouvoir réaliser un grand nombre de transactions par secondes et cela même entre blockchains différentes.
+La cryptomonnaie est conçu pour faciliter la communication, la scalability et l'interopérabilité entre plusieurs blockchains d'une même plateforme.
+
+L'intérêt est de pouvoir réaliser un grand nombre de transactions par secondes et cela même entre blockchains différentes. On peut, par exemple, réaliser une transaction entre des tokens ATOM d'un côté et des tokens ERC20 (Ethereum) de l'autre.
 
 <p style="color: red">expliquer ce qu'est le réseau COSMOS</p>
 <p style="color: red">expliquer l'intérêt de la communication, la scalabilité et l'interopérabilité</p>
