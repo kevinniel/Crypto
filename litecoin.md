@@ -17,15 +17,25 @@ Pour cette raison, la monnaie a rapidement été nommé “l’argent numérique
 2014 : Suite à la faille Mtgox, le cours du Litecoin tombe à 4$<br>
 Avril 2017 : Création de la fondation Litecoin, pour promouvoir le Litecoin<br>
 15 décembre 2017 : Le Litecoin entre dans le groupe financier Bloomberg LP <br>
-18 Décembre 2018 : Fork du Litecoin vers Litecoin Cash <br>
+Fevrier 2018 : <br>
+<lu>
+<li>Annonce d'un fork du Litecoin vers Litecoin Cash </li>
+<li>Charlie Lee et sa Fondation communique sur le Litecoin Cash. On apprend que le fork est une arnaque qui cherche à récupérer les clés des utilisateurs du Litecoin.</li>
+<li>Le fondateur du Litecoin Cash évoque que le nom de sa monnaie n'est pas en relation avec le Litecoin et qu'elle peut etre miner plsu vite et rapporte plus.</li>
+</lu>
 Juillet 2018 : Ajout du Litecoin dans le conversion de devices de Google.<br><br>
+
+
 
 La faille de MtGox est initialement percu comme une attaque pirate de la plateforme MtGox (site de Bitcoin), qui se serait fait voler 500 millions de dollars.<br>
 Mais il est de plus en plus plausible que ce soit une fraude interne.
 Selon des sources japonaises,  seul 1% des bitcoins déclarés perdus, soit 7000 environ, par MtGox auraient effectivement été dérobés par des attaquants exploitant la faille de malléabilité du bitcoin qui avait été désignée par MtGox comme la source de l’attaque. 
 </p>
 
-<p style="color: green">Remarque Simon: Il y a une cause du fork vers Litecoin Cash ?</p>
+
+
+
+<p style="color: green">Remarque Simon: Il y a une cause du fork vers Litecoin Cash ? - Done</p>
 
 <strong>Remarques Kevin :</strong>
 <p style="color: red">expliquer la faille Mtgox - Done</p>
@@ -63,10 +73,13 @@ Son frère a fondé l'entreprise d'echange de cryptomonnaie BTC China.
 <p>
 L'algorithme SCrypt<br>
 Fonction de dérivation de clé, originellement créée par Colin Percival pour le service de stockage en ligne Tarsnap <br>
-Cet algorithme a été conçu pour être gourmand en mémoire (bande passante) de manière à entraver la création d'ASIC. (circuit intégré spécialisé, ici dans le minage)
+Cet algorithme a été conçu pour être gourmand en mémoire (bande passante) de manière à entraver la création d'ASIC. (circuit intégré spécialisé, ici dans le minage)<br>
+L'intérêt des ASIC est de réduire les coûts de production et d'augmenter la fiabilité du minage. <br>
+Des fermes de serveurs contenant uniquement des puces ASIC dédiés au minage. <br>
+Donnant un avantage dans la découvrte de bloc pour les grosses structure.<br>
 </p>
 
-<p style="color: green">Remarque Simon: Il y a une expliquation pourquoi ils veulent empecher la création d'ASIC ?</p>
+<p style="color: green">Remarque Simon: Il y a une expliquation pourquoi ils veulent empecher la création d'ASIC ? - Done</p>
 
 <h2>Spécificitées</h2>
 
