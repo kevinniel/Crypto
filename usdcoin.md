@@ -57,7 +57,7 @@ Son objectif est de transformer l’économie mondiale en proposant une technolo
 
 <p>
 N'utilise pas d'algorithme.<br>
-Cette monnaie est seulement basé sur l'Ethereum. Etant un stablecoins à financement fiduciaire (lié directement au dollar), elle n'utilise pas d'algorithme.
+Cette monnaie est seulement basée sur l'Ethereum. Etant un stablecoins à financement fiduciaire (lié directement au dollar), elle n'utilise pas d'algorithme.
 </p>
 
 <p style="color: green">Remarque Simon: Dans le résumé tu met que c'est basé sur la blockchain Ethereum, il l'a réutilise pas pour l'USD Coin ? - Done</p>

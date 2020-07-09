@@ -75,8 +75,7 @@ L'algorithme SCrypt<br>
 Fonction de dérivation de clé, originellement créée par Colin Percival pour le service de stockage en ligne Tarsnap <br>
 Cet algorithme a été conçu pour être gourmand en mémoire (bande passante) de manière à entraver la création d'ASIC. (circuit intégré spécialisé, ici dans le minage)<br>
 L'intérêt des ASIC est de réduire les coûts de production et d'augmenter la fiabilité du minage. <br>
-Des fermes de serveurs contenant uniquement des puces ASIC dédiés au minage. <br>
-Donnant un avantage dans la découvrte de bloc pour les grosses structure.<br>
+Des fermes de serveurs contenant uniquement des puces ASIC dédiés au minage. Donnant un avantage dans la découverte de bloc pour les grosses structures.<br>
 </p>
 
 <p style="color: green">Remarque Simon: Il y a une expliquation pourquoi ils veulent empecher la création d'ASIC ? - Done</p>
