@@ -58,13 +58,21 @@ sur des solutions de scaling pour Bitcoin, ce qui a abouti à la création de Bi
 Un double hash en SHA-256 est utilisé pour obtenir le hash des blocs et donc la preuve de travail.<br>
 Et SHA-256 suivi d'un RIPEMD-160 est utilisé pour construire les adresses bitcoins. <br><br>
 
+SHA-256 : <br>
+Les fonctions SHA-2 prennent en entrée un message de taille arbitraire, avec une borne, et produisent un résultat (appelé « hash ») de taille fixe. <br>
+La taille du haché est indiquée par le suffixe. Ici 256.<br>
+La fonction produit un haché de 256 bits.
+
+RIPEMD-160 : <br>
+L'algorithme de hachage RACE Integrity Primitives Evaluation Message Digest (RIPEMD) , est une fonction de hachage qui produit une signature de 160 bits.
+
 
 Le type de minage le plus efficace pour Bitcoin Cash est le minage à l'aide d'ASIC (machines conçues spécialement pour le minage afin d'être bien plus efficaces qu'un processeur classique). <br>
 Les ASIC capables de miner Bitcoin Cash sont aussi capables de miner Bitcoin car la preuve de travail est la même. 
 
 </p>
 
-<p style="color: green">Remarque Simon: on ne sait pas ce qu'est le SHA-256 et le RIPEMD-160</p>
+<p style="color: green">Remarque Simon: on ne sait pas ce qu'est le SHA-256 et le RIPEMD-160 - Done</p>
 
 <strong>Remarques Kevin :</strong>
 <p style="color: red">+ d'info ? exemple ? exemple d'algo de minage ? - Done</p>
