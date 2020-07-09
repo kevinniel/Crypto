@@ -69,6 +69,8 @@ On peut diviser l'algorithme de consensus de Ripple en plusieurs parties :
  - Fonction de hashage en SHA256.
  - 100 000 000 000 de XRP maximale.
  
+ <p style="color: red">Remarque Thibault : préciser SHA256</p>
+ 
  # 8. Avantages / Points forts
  
  - Seulement 3.5 secondes pour déplacer de l'argent sur le réseau Ripple.
