@@ -12,15 +12,15 @@
 
 **Le 19 Décembre 2013**, Le Dogecoin a bondi de près de 300 pour cent en 72 heures, passant de 0,00026 à 0,00095 $ avec un volume de milliards de Dogecoins par jour.
 
-**Le 25 décembre 2013**, le premier grand vol de Dogecoin s'est produit lorsque des millions de pièces ont été volées au cours d'un piratage de la plate-forme de portefeuille crypto-monnaie en ligne Dogewallet
+**Le 25 décembre 2013**, le premier grand vol de Dogecoin s'est produit lorsque des millions de pièces ont été volées au cours d'un piratage de la plate-forme de portefeuille crypto-monnaie en ligne Dogewallet. Le pirate informatique a eu accès au système de fichiers de la plate-forme et a modifié sa page d'envoi / réception pour envoyer toutes les pièces à une adresse statique
 
 **En janvier 2014**, le volume de négociation du Dogecoin a brièvement dépassé celui du Bitcoin et de toutes les autres monnaies cryptées, mais sa capitalisation boursière est restée considérablement inférieure à celle de Bitcoin.
 
-Markus a basé le Dogecoin sur une crypto-monnaie existante, le Luckycoin qui présente une **récompense aléatoire** reçue pour l’exploitation d’un bloc, cette particularité a ensuite été remplacée par une **récompense de bloc statique** en **mars 2014**.
+Markus a basé le Dogecoin sur une crypto-monnaie existante, le Luckycoin qui présente une **récompense aléatoire** reçue pour l’exploitation d’un bloc, cette particularité a ensuite été remplacée par une **récompense de bloc statique** en **mars 2014** afin de réguler le taux d'apparition de DOGE. La communauté Dogecoin a ensuite lancé une initiative appelée "SaveDogemas" pour aider à donner des pièces à ceux qui avaient été volés. Environ un mois plus tard, une somme suffisante a été donnée pour couvrir le montant de toutes les pièces dérobées
 
 <strong>Remarques ThomasM :</strong>
-<p> Détails sur le vol de 2013 ? </p>
-<p> Une raison d'etre passé d'une recompense aléatoire à une statique  ? </p>
+<p> Détails sur le vol de 2013 ? - Done</p>
+<p> Une raison d'etre passé d'une recompense aléatoire à une statique  ? - Done</p>
 
 # valorisation
 
@@ -49,6 +49,7 @@ Le **25 mars 2014**, la communauté Dogecoin a réussi à collecter **67,8 milli
 <p style="color: red">peut etre y a t il d'autres dates importantes concernant la valorisation ? ou au moins en donner un peu plus ? - Done</p>
 
 # créateur
+
 **Billy Markus**, programmeur de Portland. Il était développeur à IBM
 
 **Jackson Palmer**, co-fondateur du Dogecoin
@@ -56,9 +57,9 @@ Le **25 mars 2014**, la communauté Dogecoin a réussi à collecter **67,8 milli
 <p style="color: red">parcours ? formation ? - Pas plus d'infos que ça ...</p>
 
 <strong>Remarques ThomasM :</strong>
-<p> Des choses sur lesquelles il aurait travailler chez IBM ?</p>
+<p> Des choses sur lesquelles il aurait travailler chez IBM ? Rien trouvé sur ce qu'il a fait comme étude ni ce qu'il a fait avant/après ...</p>
 
-# algo => qu'est-ce qui se cache derrière la crypto
+# algo
 
 le Luckycoin (la base du Dogecoin) est basé sur le **Litecoin9** qui utilise également la **technologie scrypt** (une fonction de dérivation de clé conçu de façon qu'il soit coûteux en calcul et en mémoire notamment sur des architectures dédiées) dans son algorithme de preuve de travail. 
 L'utilisation de scrypt signifie que les mineurs ne peuvent pas utiliser l'équipement de minage SHA-256 comme pour le bitcoin.

@@ -4,7 +4,9 @@
 
 # description courte
 
-**Chainlink** est la toute première plateforme à avoir proposé les « oracles », des source d’informations qui permet d’intégrer des variables issues du monde réel dans le secteur des cryptomonnaies. **Fondée sur la blockchain d’Ethereum**, elle s’inscrit dans l’évolution technologique des blockchains, qui a notamment permis la mise en place des **smart contracts**. Ces contrats intelligents sont capables d’activer un programme informatique de manière autonome et décentralisée, sans l’intervention d’un tiers. 
+**Chainlink** est la toute première plateforme à avoir proposé les « oracles », des source d’informations qui permet d’intégrer des variables issues du monde réel dans le secteur des cryptomonnaies. Par exemple des températures, des résultats sportifs, des retards aériens... 
+
+**Fondée sur la blockchain d’Ethereum**, elle s’inscrit dans l’évolution technologique des blockchains, qui a notamment permis la mise en place des **smart contracts**. Ces contrats intelligents sont capables d’activer un programme informatique de manière autonome et décentralisée, sans l’intervention d’un tiers. 
 
 Mais le gros problème des smart contracts est qu'ils ne peuvent gérer que les informations présentes sur la blockchain. Cela limite donc fortement l'intérêt de ces contrats intelligents car ils ne peuvent pas obtenir certaines informations directement, comme par exemple la température à une date donnée, le vainqueur d'un événement sportif, le résultat du vote sur une nouvelle loi, etc.
 
@@ -13,7 +15,7 @@ Et c'est là qu'intervient ChainLink et son service d'oracle. Avec ChainLink, le
 <p style="color: red">expliquer les "oracles" - Done</p>
 
 <strong>Remarques ThomasM :</strong>
-<p> Exemples d'oracles ? </p>
+<p> Exemples d'oracles ? - Done</p>
 
 # historique
 
@@ -21,9 +23,9 @@ Création en **2018**
 
 12 mars 2020 augmentation de près de 150% de son cours
 
-<p style="color: red">évolution depuis ??? - Pas plus d'info?</p>
+<p style="color: red">évolution depuis ??? - Pas plus d'info ...</p>
 
-# valorisation (historique, mise en place, etc...)
+# valorisation
 
 Levée de fond en crypto-monnaie terminé le 19 septembre 2019 a permis de récolter 32 millions de dollars.
 
@@ -60,9 +62,13 @@ La communauté est très entousiaste quant à l'évolution du Chainlink.
 **3 software engineer** : Dimitri Roche, Alex Kwiatkowski et John Barker
 **6 advisors** : Ari Juels, Andrew Miller, Evan Cheng, Hudson Jameson, Jake Brukhman et Brian Lio.
 
-# algo => qu'est-ce qui se cache derrière la crypto
+# algo
 
-<p style="color: red">A FAIRE</p>
+Chainlink est composé de deux infrastructures : une on-chain et une autre off-chain.
+
+ChainLink est totalement décentralisé. Cela résoudra le problème que peuvent rencontrer des oracles centralisés qui peuvent fournir des données inexactes.Par exemple, si on doit recevoir un rapport sur des résultats financiers, cet oracle pourrait altérer ces données s'il avait une mauvaise intention ou qu'il a été corrompu pour fournir de fausses données.
+
+<p style="color: red">A FAIRE - Pas beaucoup d'informations sur son algo en lui même ...</p>
 
 # spécificités
 
@@ -92,7 +98,7 @@ Possibilité d'ajouter des "adapters" afin d'améliorer l'efficacité de certain
 Très peu de marketing autour du projet.
 Seulement 35% des tokens ont été vendus au public.
 L'équipe de développement ne communique pas énormément sur l'évolution du projet.
-Des concurrents sont apparus sur le marché et semblent atteindre leurs objectifs beaucoup plus rapidement.
+Des concurrents sont apparus sur le marché et semblent atteindre leurs objectifs beaucoup plus rapidement. Les sociétés Gnosis et Augur travaillent notamment sur des marchés prédictifs qui ont également pour vocation de servir d’Oracles
 
 <strong>Remarques ThomasM :</strong>
-<p> Exemples de concurrents  ? </p>
+<p> Exemples de concurrents  ? - Done</p>
