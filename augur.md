@@ -33,7 +33,14 @@ La plateforme Augur a été créée par Jack Peterson, docteur en philosophie, e
 
 Augur est né du réseau Ethereum. Les détenteurs de REP sont appelés « oracles », ce sont eux qui annoncent le résultat d'un pari.
 
-J-L : Comment le REP est g�n�r� ?
+<hr/>
+
+#### Remarque J-L : Comment le REP est généré ?
+
+Le 14 août 2015, Augur a réalisé une ICO (Initial Coin Offering) en mettant en circulation 11 millions de REP au prix unitaire de 0.60 $. Cela représente 80% de la masse totale de jetons pouvant être créés. L'équipe de développement en a reçu 16%, et enfin 4% destinés à la fondation qui gère la maintenance et la promotion de Augur (la Forecast Foundation).
+
+<hr/>
+
 
 ### 5. Spécificités
 
@@ -41,7 +48,14 @@ Le marché est contrôlé par ses utilisateurs qui parient sur les évènements 
 
 Les marchés prédictifs existent depuis longtemps, cependant, Augur est le premier décentralisé. Il présente l'avantage d'être beaucoup plus fiable car les résultats sont validés par une grand nombre de personnes, et non par un seul tier de confiance.
 
-J-L : Un utilisteur peut-il r�cup�r� plus de REP qu'un autre en fonction des ses paris ? 
+<hr/>
+
+#### Remarque J-L : Un utilisteur peut-il récupérer plus de REP qu'un autre en fonction des ses paris ? 
+
+Quand un utilisateur veut créer un pari, il doit initialement le financer et fournir la liquidité des actions. En contrepartie, il reçoit un pourcentage des frais générés par le marchés. Aucune autorité ne donne l'issu d'un pari, ce sont les détenteurs de REP qui le font; plus ils sont nombreux, plus le résultat à de chance d'être vrai, ce qui rend quasiement impossible la triche. Si une personne annonce un faux résultat en mettant ses REP en jeux, ils seront redistribuer.
+
+<hr/>
+
 
 ### 6. Avantages / Forces
 
