@@ -13,6 +13,8 @@ La cryptomonnaie est conçu pour faciliter la communication, la scalability et l
 <p style="color: red">expliquer ce qu'est le réseau COSMOS</p>
 <p style="color: red">expliquer l'intérêt de la communication, la scalabilité et l'interopérabilité</p>
 
+<p style="color: red">Remarque Thibault : Plusieurs cryptomonaie sur le réseau COSMOS ? exemple ?</p>
+
 # 3. Historique
 
 L'idée de COSMOS est plus ancienne et émerge dès 2014 dans l'esprit de Jae Kwon. Il souhaitait améliorer l'idée des blockchains avec une implémentation différente des mécanismes habituels des blockchains (système de preuves, problème des généraux byzantins, etc.)
