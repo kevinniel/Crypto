@@ -33,11 +33,15 @@ La plateforme Augur a été créée par Jack Peterson, docteur en philosophie, e
 
 Augur est né du réseau Ethereum. Les détenteurs de REP sont appelés « oracles », ce sont eux qui annoncent le résultat d'un pari.
 
+J-L : Comment le REP est g�n�r� ?
+
 ### 5. Spécificités
 
 Le marché est contrôlé par ses utilisateurs qui parient sur les évènements réels, car il se base sur la théorie de la “sagesse des foules”, qui déduit que l'avis collectif a plus de chance d'être exact que l'avis d'un seul expert. Les paris ayant lieu sur la plateforme Augur fonctionnent plus ou moins de la même manière que les paris sportif, la "cote" s'ajuste en fonction de l'offre et de la demande.
 
 Les marchés prédictifs existent depuis longtemps, cependant, Augur est le premier décentralisé. Il présente l'avantage d'être beaucoup plus fiable car les résultats sont validés par une grand nombre de personnes, et non par un seul tier de confiance.
+
+J-L : Un utilisteur peut-il r�cup�r� plus de REP qu'un autre en fonction des ses paris ? 
 
 ### 6. Avantages / Forces
 

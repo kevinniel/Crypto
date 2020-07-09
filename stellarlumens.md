@@ -32,11 +32,15 @@ Le réseau Stellar a été créé par Jed McCaleb, fondateur de la plateforme d'
 
 Stellar Lumens découle du Ripple (il s'agit d'un « fork »), mais contrairement à ce dernier, il ne s'adresse pas aux banques mais aux particuliers. Il hérite donc d'un protocole ayant déjà fait ses preuves. Stellar se base sur le Stellar Conscensus Protocol (SCP), qui découle du Federated Byzantine Agreement (FBA), qui permet d'établir un accord entre différents noeuds non fiables d'un réseau.
 
+J-L : Comment le Lumen est g�n�r� ?
+
 ### 5. Spécificités
 
 Le réseau Stellar permet d'envoyer n'importe quelle devise à n'importe qui, et ce très rapidement. Stellar est capable de convertir une somme envoyée en euros en bitcoins, et inversement.
 
 Le token Lumen (XLM) permet seulement de payer les frais de transaction. C'est la raison pour laquelle il est nécessaire de posséder au moins 20 XLM pour réaliser une transaction.
+
+J-L : Comment se procurer du lumen ? 
 
 ### 6. Avantages / Forces
 
