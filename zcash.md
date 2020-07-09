@@ -3,54 +3,56 @@
 
 ## Description
 
-ZCash est une crypto-monnaie alimentée par une blockchain décentralisée dont l'objectif premier est de fournir une solution monétaire axée sur la protection de la vie privée. Il garantit en effet l'anonymat des utilisateurs et des transactions qui ont lieu sur sa blockchain. Cette dernière utilise des preuves à divulgation nulle de connaissance (zero knowledge proof) pour vérifier les transactions tout en dissimulant les informations personnelles de l'utilisateur ainsi que les données relatives aux transactions. Elle a été construite sur l'infrastructure Bitcoin et partage de nombreuses caractéristiques avec la première crypto-monnaie jamais lancée. 
+ZCash est une crypto-monnaie alimentï¿½e par une blockchain dï¿½centralisï¿½e dont l'objectif premier est de fournir une solution monï¿½taire axï¿½e sur la protection de la vie privï¿½e. Il garantit en effet l'anonymat des utilisateurs et des transactions qui ont lieu sur sa blockchain. Cette derniï¿½re utilise des preuves ï¿½ divulgation nulle de connaissance (zero knowledge proof) pour vï¿½rifier les transactions tout en dissimulant les informations personnelles de l'utilisateur ainsi que les donnï¿½es relatives aux transactions. Elle a ï¿½tï¿½ construite sur l'infrastructure Bitcoin et partage de nombreuses caractï¿½ristiques avec la premiï¿½re crypto-monnaie jamais lancï¿½e. 
 
 ## Historique
 	
-	Zcash, introduit officiellement fin octobre 2016, trouve son origine dans une start-up 2013 appelée Zerocoin dirigée par plusieurs membres clés: Matthew Green, Christina Garman, Ian Miers et Aviel Rubin. Tous les quatre étaient au département d'informatique de l'Université John Hopkins, Baltimore. Le visage public de zcash est le PDG Zooko Wilcox.
+	Zcash, introduit officiellement fin octobre 2016, trouve son origine dans une start-up 2013 appelï¿½e Zerocoin dirigï¿½e par plusieurs membres clï¿½s: Matthew Green, Christina Garman, Ian Miers et Aviel Rubin. Tous les quatre ï¿½taient au dï¿½partement d'informatique de l'Universitï¿½ John Hopkins, Baltimore. Le visage public de zcash est le PDG Zooko Wilcox.
 
-	Début juin 2018, il s'échangeait à 234 $ avec une capitalisation boursière de 960 millions de dollars.
+	Dï¿½but juin 2018, il s'ï¿½changeait ï¿½ 234 $ avec une capitalisation boursiï¿½re de 960 millions de dollars.
 	
 <p style="color: red">+ d'infos !</p>
 
 ## Valorisation
 
 Prix du Zcash : 54.35$
-Il est 26eme sur le rang du marché
+Il est 26eme sur le rang du marchï¿½
 Capital : 518 444 060$
 Le 29 Octobre 2016 il a atteint son prix maximum de 5?941,80 $
 Le 13 Mars 2020 il a atteint son prix minimum de 18,94 $
 
 <p style="color: red">ajouter des valeurs concernant des dates importantes</p> ok
 
-## Créateur
+## Crï¿½ateur
 
-Zooko Wilcox O-Hearn est américain et est un spécialiste de la sécurité informatique basé au Colorado ainsi que le PDG de la Electric Coin Company. ZCash était une réponse à une demande toujours croissante pour plus de vie privée et d'anonymat.
+Zooko Wilcox O-Hearn est amï¿½ricain et est un spï¿½cialiste de la sï¿½curitï¿½ informatique basï¿½ au Colorado ainsi que le PDG de la Electric Coin Company. ZCash ï¿½tait une rï¿½ponse ï¿½ une demande toujours croissante pour plus de vie privï¿½e et d'anonymat.
 
-<p style="color: red">détailler un peu plus ? pourquoi il a créer ca ? quelle formation ? + d'infos sur le parcours ?</p>
+<p style="color: red">dï¿½tailler un peu plus ? pourquoi il a crï¿½er ca ? quelle formation ? + d'infos sur le parcours ?</p>
 
 ## Algorithme  
 
-Les transactions anonymes de Zcash s’appuient sur l’algorithme zk-SNARK, l’acronyme de “zero-knowledge succinct non-interactive argument of knowledge”, un système de preuve qui rentre dans la catégorie des preuves à non-divulgation de connaissance. Cette méthode permet à l'expéditeur et au destinataire d'effectuer des transactions sans révéler les adresses ou les clés de la blockchain de l'autre. Elle rend également ces transactions introuvables sur la blockchain en cryptant toutes les adresses de paiement et le montant de la transaction.
+Les transactions anonymes de Zcash sï¿½appuient sur lï¿½algorithme zk-SNARK, lï¿½acronyme de ï¿½zero-knowledge succinct non-interactive argument of knowledgeï¿½, un systï¿½me de preuve qui rentre dans la catï¿½gorie des preuves ï¿½ non-divulgation de connaissance. Cette mï¿½thode permet ï¿½ l'expï¿½diteur et au destinataire d'effectuer des transactions sans rï¿½vï¿½ler les adresses ou les clï¿½s de la blockchain de l'autre. Elle rend ï¿½galement ces transactions introuvables sur la blockchain en cryptant toutes les adresses de paiement et le montant de la transaction.
 
-Comme les clés de paiement enregistrées dans la blockchain ne sont pas de véritables adresses, il devient impossible pour quiconque de retrouver les transactions et les personnes associées à ces transactions. C'est ainsi que ZCash se distingue des autres crypto-devises comme le Bitcoin. Les adresses publiques et les transactions liées à ces adresses sont toujours visibles, ce qui peut entraîner une atteinte à la vie privée.
-
-
-<p style="color: red">détaillé +</p> FAIT
+Comme les clï¿½s de paiement enregistrï¿½es dans la blockchain ne sont pas de vï¿½ritables adresses, il devient impossible pour quiconque de retrouver les transactions et les personnes associï¿½es ï¿½ ces transactions. C'est ainsi que ZCash se distingue des autres crypto-devises comme le Bitcoin. Les adresses publiques et les transactions liï¿½es ï¿½ ces adresses sont toujours visibles, ce qui peut entraï¿½ner une atteinte ï¿½ la vie privï¿½e.
 
 
-## Spécificités
+<p style="color: red">dï¿½taillï¿½ +</p> FAIT
 
-Zcash (ZEC) est une cryptomonnaie permettant à la fois des transactions publiques (comme Bitcoin par exemple), mais également des transactions anonymes. Cette possibilité de rendre ou non une transaction anonyme (grâce au protocole zk-SNARK) est son principal apport de valeur.
+
+## Spï¿½cificitï¿½s
+
+Zcash (ZEC) est une cryptomonnaie permettant ï¿½ la fois des transactions publiques (comme Bitcoin par exemple), mais ï¿½galement des transactions anonymes. Cette possibilitï¿½ de rendre ou non une transaction anonyme (grï¿½ce au protocole zk-SNARK) est son principal apport de valeur.
 
 
 ## Avantages 
 
- - Frais négligeables
- - Résistant à la censure et aux attaques
- - Acceptation dans le monde réel
+ - Frais nï¿½gligeables
+ - Rï¿½sistant ï¿½ la censure et aux attaques
+ - Acceptation dans le monde rï¿½el
  - Facilement accessible
 
-## Inconvénients
+## Inconvï¿½nients
 
 La concurence 
+
+<p style="color: red">Remarque Fred : Exemple de concurents, et pourquoi ils le sont ?</p>

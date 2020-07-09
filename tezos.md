@@ -4,58 +4,62 @@
 
 ## Description
 
-Tezos est une cryptomonnaie qui au lieu de mettre chaque mineur en compétition afin de trouver un hash valable, un mineur est présélectionné pour miner un certain bloc dans le futur. Afin de s’assurer qu’il ne triche pas ou ne soit pas malhonnête, il devra mettre en séquestre un certain nombre de ses tokens avant même d’ajouter ses blocs à la blockchain. Si il essaye de tromper le réseau, il perdra ses fonds en séquestre. Cela veut dire que l’énergie nécessaire au fonctionnement du réseau est minimale car il n’y a pas de dépense d’énergie en excès.Initialement développé pour être un protocole de blockchain, le Tezos est également reconnu comme cryptomonnaie et échangé sur le marché du digital. Ses jetons sont identifiés par le sigle XTZ et valent unitairement 2,33 € en juillet 2020.
+Tezos est une cryptomonnaie qui au lieu de mettre chaque mineur en compï¿½tition afin de trouver un hash valable, un mineur est prï¿½sï¿½lectionnï¿½ pour miner un certain bloc dans le futur. Afin de sï¿½assurer quï¿½il ne triche pas ou ne soit pas malhonnï¿½te, il devra mettre en sï¿½questre un certain nombre de ses tokens avant mï¿½me dï¿½ajouter ses blocs ï¿½ la blockchain. Si il essaye de tromper le rï¿½seau, il perdra ses fonds en sï¿½questre. Cela veut dire que lï¿½ï¿½nergie nï¿½cessaire au fonctionnement du rï¿½seau est minimale car il nï¿½y a pas de dï¿½pense dï¿½ï¿½nergie en excï¿½s.Initialement dï¿½veloppï¿½ pour ï¿½tre un protocole de blockchain, le Tezos est ï¿½galement reconnu comme cryptomonnaie et ï¿½changï¿½ sur le marchï¿½ du digital. Ses jetons sont identifiï¿½s par le sigle XTZ et valent unitairement 2,33 ï¿½ en juillet 2020.
 
 <p style="color: red">tu parles des mineurs, mais qu'en est-il de la monnaie en tant que telle ?</p>  OK
 
+<p style="color: red">Remarque Fred : Possible de comparer la consommation avec le Bitcoin ?</p>
+
 ## Historique
 
-- En août 2014, les fondateurs du projet ont publié un document intitulé «Position Paper» et, en septembre de la même année, le livre blanc Tezos a été publié.
-- En 2017, la Fondation Tezos, une organisation à but non lucratif basée en Suisse , a levé 232 millions de dollars lors d'une collecte de fonds et est devenue l'une des plus grandes ICO du boom des crypto-monnaies en 2017.
-- En février 2019, Elevated Returns (ER), un groupe financier axé sur la numérisation des actifs financiers traditionnels et surtout connu pour sa tokenisation du complexe St.Regis à Aspen, a annoncé qu'il avait choisi Tezos comme chaîne de blocs sur laquelle il offrira une tokenisation entièrement conforme des offres immobilières aux investisseurs qualifiés
--  En juillet 2019, Banco BTG Pactual SA et Dalma Capital, un gestionnaire d'actifs basé à Dubaï, ont annoncé leur intention d'utiliser la blockchain Tezos
+- En aoï¿½t 2014, les fondateurs du projet ont publiï¿½ un document intitulï¿½ ï¿½Position Paperï¿½ et, en septembre de la mï¿½me annï¿½e, le livre blanc Tezos a ï¿½tï¿½ publiï¿½.
+- En 2017, la Fondation Tezos, une organisation ï¿½ but non lucratif basï¿½e en Suisse , a levï¿½ 232 millions de dollars lors d'une collecte de fonds et est devenue l'une des plus grandes ICO du boom des crypto-monnaies en 2017.
+- En fï¿½vrier 2019, Elevated Returns (ER), un groupe financier axï¿½ sur la numï¿½risation des actifs financiers traditionnels et surtout connu pour sa tokenisation du complexe St.Regis ï¿½ Aspen, a annoncï¿½ qu'il avait choisi Tezos comme chaï¿½ne de blocs sur laquelle il offrira une tokenisation entiï¿½rement conforme des offres immobiliï¿½res aux investisseurs qualifiï¿½s
+-  En juillet 2019, Banco BTG Pactual SA et Dalma Capital, un gestionnaire d'actifs basï¿½ ï¿½ Dubaï¿½, ont annoncï¿½ leur intention d'utiliser la blockchain Tezos
 
 
 ## Valorisation
 
-Actuellement classée à la 10ième place en termes de capitalisation boursière, Tezos (XTZ) a une capitalisation boursière de 1,6 milliards de dollars avec un volume sur 24 heures de 220,37 millions de dollars.
-Le 1 juillet 2018 il a atteint son prix maximum de 3.94€
-Le 7 Décembre 2018 il a atteint son prix minimum de 0.27 €
+Actuellement classï¿½e ï¿½ la 10iï¿½me place en termes de capitalisation boursiï¿½re, Tezos (XTZ) a une capitalisation boursiï¿½re de 1,6 milliards de dollars avec un volume sur 24 heures de 220,37 millions de dollars.
+Le 1 juillet 2018 il a atteint son prix maximum de 3.94ï¿½
+Le 7 Dï¿½cembre 2018 il a atteint son prix minimum de 0.27 ï¿½
 
 <p style="color: red">ajouter des valeurs par date importante</p>  OK
 
-## Créateur
+## Crï¿½ateur
 
 Kathleen Breitman est la co-fondatrice et la CEO de Tezos 
 <p style="color: red">A FAIRE</p>
 
+<p style="color: red">Remarque Fred : Possible d'avoir plus de dÃ©tail sur cette personne ? (Ã©tudes, parcours pro par exemple)</p>
+
 ## Algorithme  
 
-Tezos utilise un algorithme de consensus par preuve d’enjeu, l’algorithme sélectionne aléatoirement un validateur (l’aléa étant pondéré par le montant total déposé, par exemple un validateur avec 10 000 crypto aura dix fois plus de chance d’être sélectionné qu’un validateur avec 1 000 crypto) et lui attribue le droit de créer le prochain bloc. 
+Tezos utilise un algorithme de consensus par preuve dï¿½enjeu, lï¿½algorithme sï¿½lectionne alï¿½atoirement un validateur (lï¿½alï¿½a ï¿½tant pondï¿½rï¿½ par le montant total dï¿½posï¿½, par exemple un validateur avec 10 000 crypto aura dix fois plus de chance dï¿½ï¿½tre sï¿½lectionnï¿½ quï¿½un validateur avec 1 000 crypto) et lui attribue le droit de crï¿½er le prochain bloc. 
 
 <p style="color: red">expliquer !</p> OK
 
 
-## Spécificités
+## Spï¿½cificitï¿½s
 
-Alors que dans la preuve de travail, le mineur doit investir dans du matériel pour pouvoir avoir une puissance de calcul permettant de résoudre un problème mathématique complexe, le protocole Proof of Stake réclame un investissement différent. Pour participer à la sécurisation du réseau d'une blockchain PoS, il suffit d'avoir accumulé une quantité suffisante de jetons de la cryptomonnaie échangée sur le réseau. Le nombre de jetons nécessaire varie d'un réseau à l'autre.
+Alors que dans la preuve de travail, le mineur doit investir dans du matï¿½riel pour pouvoir avoir une puissance de calcul permettant de rï¿½soudre un problï¿½me mathï¿½matique complexe, le protocole Proof of Stake rï¿½clame un investissement diffï¿½rent. Pour participer ï¿½ la sï¿½curisation du rï¿½seau d'une blockchain PoS, il suffit d'avoir accumulï¿½ une quantitï¿½ suffisante de jetons de la cryptomonnaie ï¿½changï¿½e sur le rï¿½seau. Le nombre de jetons nï¿½cessaire varie d'un rï¿½seau ï¿½ l'autre.
 
-Plus une personne possédera de jetons d’une cryptomonnaie, plus on considérera que la sécurité du réseau est un enjeu important pour elle. C’est la raison pour laquelle on parle de « preuve d’enjeu » : lorsqu’un participant est à même de prouver que la sécurité de la blockchain représente un réel enjeu pour lui, celui-ci aura d’autant plus de chances d’être sélectionné pour produire des blocs et obtenir une récompense. Ainsi, plus un nœud possède une quantité importante de la cryptomonnaie du réseau, plus celui-ci pourra forger de blocs et obtenir de récompenses.
+Plus une personne possï¿½dera de jetons dï¿½une cryptomonnaie, plus on considï¿½rera que la sï¿½curitï¿½ du rï¿½seau est un enjeu important pour elle. Cï¿½est la raison pour laquelle on parle de ï¿½ preuve dï¿½enjeu ï¿½ : lorsquï¿½un participant est ï¿½ mï¿½me de prouver que la sï¿½curitï¿½ de la blockchain reprï¿½sente un rï¿½el enjeu pour lui, celui-ci aura dï¿½autant plus de chances dï¿½ï¿½tre sï¿½lectionnï¿½ pour produire des blocs et obtenir une rï¿½compense. Ainsi, plus un nï¿½ud possï¿½de une quantitï¿½ importante de la cryptomonnaie du rï¿½seau, plus celui-ci pourra forger de blocs et obtenir de rï¿½compenses.
 
 ## Avantages 
 
   
 
-- Un langage de programmation des contrats autonomes qui se prête à la    vérification formelle et qui garantit donc une certaine sécurité ;    
-- Un modèle de gouvernance interne permettant de faire évoluer le protocole plus facilement ;    
-- Un protocole de consensus utilisant la preuve d’enjeu liquide, ce qui permet de réduire la consommation d’énergie des validateurs, d’inciter les détenteurs à participer à la sécurité du réseau et de    redistribuer la création monétaire ;    
-- Une stratégie de passage à l’échelle plus réaliste que certains de ses concurrents, qui inclut notamment des solutions de seconde couche comme Marigold ou des canaux d’état.
+- Un langage de programmation des contrats autonomes qui se prï¿½te ï¿½ la    vï¿½rification formelle et qui garantit donc une certaine sï¿½curitï¿½ ;    
+- Un modï¿½le de gouvernance interne permettant de faire ï¿½voluer le protocole plus facilement ;    
+- Un protocole de consensus utilisant la preuve dï¿½enjeu liquide, ce qui permet de rï¿½duire la consommation dï¿½ï¿½nergie des validateurs, dï¿½inciter les dï¿½tenteurs ï¿½ participer ï¿½ la sï¿½curitï¿½ du rï¿½seau et de    redistribuer la crï¿½ation monï¿½taire ;    
+- Une stratï¿½gie de passage ï¿½ lï¿½ï¿½chelle plus rï¿½aliste que certains de ses concurrents, qui inclut notamment des solutions de seconde couche comme Marigold ou des canaux dï¿½ï¿½tat.
 
-## Inconvénients
+## Inconvï¿½nients
 
-   -  Tezos est encore petit par rapport à Ethereum qui possède le plus grand effet de réseau : lancé officiellement en 2018, Tezos possède un certain retard dans l’écosystème de développement autour de lui ;
-    - Le système de gouvernance n’empêche pas les embranchements contentieux : le 9 septembre 2019, le protocole Dune Network s’est séparé de la chaîne principale à la suite de désaccords financiers entre entre la Fondation Tezos et OCamlPro ;
-    - Le modèle de gouvernance interne pourrait être une boîte de Pandore : si la gestion du protocole est confiée à un groupe (même très important) de personnes, alors ce groupe pourrait être tenté de censurer certaines transactions par l’intermédiaire du protocole et créer ainsi un dangereux précédent.
- *Dune Network est une plate-forme pour les applications distribuées sur une blockchain.
+   -  Tezos est encore petit par rapport ï¿½ Ethereum qui possï¿½de le plus grand effet de rï¿½seau : lancï¿½ officiellement en 2018, Tezos possï¿½de un certain retard dans lï¿½ï¿½cosystï¿½me de dï¿½veloppement autour de lui ;
+    - Le systï¿½me de gouvernance nï¿½empï¿½che pas les embranchements contentieux : le 9 septembre 2019, le protocole Dune Network sï¿½est sï¿½parï¿½ de la chaï¿½ne principale ï¿½ la suite de dï¿½saccords financiers entre entre la Fondation Tezos et OCamlPro ;
+    - Le modï¿½le de gouvernance interne pourrait ï¿½tre une boï¿½te de Pandore : si la gestion du protocole est confiï¿½e ï¿½ un groupe (mï¿½me trï¿½s important) de personnes, alors ce groupe pourrait ï¿½tre tentï¿½ de censurer certaines transactions par lï¿½intermï¿½diaire du protocole et crï¿½er ainsi un dangereux prï¿½cï¿½dent.
+ *Dune Network est une plate-forme pour les applications distribuï¿½es sur une blockchain.
 
 <p style="color: red">expliquer "Dune Network"</p>  OK
