@@ -14,9 +14,15 @@ Stellar est une organisation à but non-lucratif créée en 2014 dans le but de 
 
 | Date | Valeur |
 |-|-|
-| Août 2014 | 0.0021 € |
-| Janvier 2015 | 0.0042 € |
-| Juin 2016 | 0.0013 € |
+| Avril 2017 | 0.0024 € |
+| Septembre 2017 | 0.0096 € |
+| Janvier 2018 | 0.79 € |
+| Mars 2018 | 0.178 € |
+| Mai 2018 | 0.38 € |
+| Septembre 2018 | 0.16 € |
+| Février 2019 | 0.066 € |
+| Octobre 2019 | 0.052 € |
+| Juillet 2020 | 0.081 € |
 
 ### 3. Créateur
 
